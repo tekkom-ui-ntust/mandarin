@@ -1,0 +1,38 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Mandarin Taiwan
+#columns:Hanzi	Pinyin	Indonesian	English	Taiwan Note	Tags
+多少錢？	duōshǎo qián?	berapa harganya?	how much?		scenario::Tawar_Menawar register::casual
+太貴了	tài guì le	terlalu mahal	too expensive		scenario::Tawar_Menawar register::casual
+可以便宜一點嗎？	kěyǐ piányí yīdiǎn ma?	bisa lebih murah sedikit?	can you make it cheaper?		scenario::Tawar_Menawar register::casual
+算我便宜一點	suàn wǒ piányí yīdiǎn	hitung lebih murah buat saya	give me a better price		scenario::Tawar_Menawar register::casual
+打折嗎？	dǎzhé ma?	ada diskon?	any discount?		scenario::Tawar_Menawar register::casual
+最低多少？	zuì dī duōshǎo?	paling murah berapa?	what\		scenario::Tawar_Menawar register::casual
+⋯⋯元可以嗎？	... yuán kěyǐ ma?	... dolar boleh?	can you do ... dollars?		scenario::Tawar_Menawar register::casual
+我出⋯⋯元	wǒ chū ... yuán	saya tawar ... dolar	I\		scenario::Tawar_Menawar register::casual
+這個價錢我不能再低了	zhège jiàqián wǒ bù néng zài dī le	harga ini sudah tidak bisa lebih murah lagi	this is the lowest I can go		scenario::Tawar_Menawar register::casual
+好，成交！	hǎo, chéngjīao!	oke, deal!	okay, deal!		scenario::Tawar_Menawar register::casual
+算了，不買了	suànle, bù mǎi le	sudahlah, tidak jadi beli	forget it, I won\	Pretending to walk away is a classic bargaining move at markets	scenario::Tawar_Menawar register::casual taiwan
+我再想想	wǒ zài xiǎngxiǎng	saya pikir-pikir dulu	let me think about it		scenario::Tawar_Menawar register::casual
+我去別家看看	wǒ qù bié jiā kànkàn	saya lihat-lihat ke toko lain dulu	I\		scenario::Tawar_Menawar register::casual
+定價	dìngjià	harga tetap / harga pasaran	fixed price / list price		scenario::Tawar_Menawar register::casual
+開價	kāijià	harga awal (sebelum tawar)	asking price		scenario::Tawar_Menawar register::casual
+殺價	shājià	tawar harga / negosiasi harga	to bargain / haggle	殺價 is normal at night markets and traditional markets, not at chain stores	scenario::Tawar_Menawar register::casual taiwan
+不二價	bù èr jià	harga mati / tidak bisa ditawar	fixed price, no bargaining	Signs saying 不二價 mean the price is final — don\	scenario::Tawar_Menawar register::casual taiwan
+有標價嗎？	yǒu biāojià ma?	ada label harganya?	is there a price tag?		scenario::Tawar_Menawar register::casual
+含稅嗎？	hán shuì ma?	sudah termasuk pajak?	does that include tax?		scenario::Tawar_Menawar register::casual
+整數	zhěngshù	angka bulat	round number		scenario::Tawar_Menawar register::casual
+算整數	suàn zhěngshù	dibulatkan saja	just round it up/down	e.g. 195元 → 算整數 → 200元 or 190元	scenario::Tawar_Menawar register::casual taiwan
+買多一點可以打折嗎？	mǎi duō yīdiǎn kěyǐ dǎzhé ma?	kalau beli lebih banyak bisa diskon?	discount if I buy more?		scenario::Tawar_Menawar register::casual
+買兩個算多少？	mǎi liǎng gè suàn duōshǎo?	kalau beli dua harganya berapa?	how much for two?		scenario::Tawar_Menawar register::casual
+買三送一	mǎi sān sòng yī	beli tiga gratis satu	buy 3 get 1 free		scenario::Tawar_Menawar register::casual
+一起算	yīqǐ suàn	dihitung sekaligus / bundle	count it all together		scenario::Tawar_Menawar register::casual
+有沒有瑕疵？	yǒu méiyǒu xiácī?	ada cacat / rusak tidak?	any defects?		scenario::Tawar_Menawar register::casual
+這個有一點壞掉	zhège yǒu yīdiǎn huài diào	yang ini ada sedikit cacat	this one is slightly damaged		scenario::Tawar_Menawar register::casual
+因為有瑕疵，可以再便宜嗎？	yīnwèi yǒu xiácī, kěyǐ zài piányí ma?	karena ada cacat, bisa lebih murah lagi?	because of the defect, can you lower the price?		scenario::Tawar_Menawar register::casual
+有沒有新的？	yǒu méiyǒu xīn de?	ada yang baru?	do you have a new one?		scenario::Tawar_Menawar register::casual
+這是最後一個了	zhè shì zuìhòu yī gè le	ini yang terakhir	this is the last one		scenario::Tawar_Menawar register::casual
+夜市	yèshì	pasar malam (boleh tawar)	night market (bargaining OK)	Bargaining is common and expected at night markets	scenario::Tawar_Menawar register::casual taiwan
+傳統市場	chuántǒng shìchǎng	pasar tradisional	traditional market	Wet markets / morning markets — bargaining is acceptable	scenario::Tawar_Menawar register::casual taiwan
+連鎖店	liánsuǒ diàn	toko jaringan / chain store	chain store	Chain stores like 全聯, 7-11 have fixed prices — no bargaining	scenario::Tawar_Menawar register::casual taiwan

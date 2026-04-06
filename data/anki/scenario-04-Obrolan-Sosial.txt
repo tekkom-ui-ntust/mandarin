@@ -1,0 +1,43 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Mandarin Taiwan
+#columns:Hanzi	Pinyin	Indonesian	English	Taiwan Note	Tags
+你好	nǐ hǎo	halo / hai	hello		scenario::Obrolan_Sosial register::casual
+你好嗎？	nǐ hǎo ma?	kamu baik-baik saja?	how are you?	Less common in casual speech; Taiwanese tend to say 你吃了嗎？ or 去哪裡？instead	scenario::Obrolan_Sosial register::formal taiwan
+吃了嗎？	chī le ma?	sudah makan?	have you eaten?	Common Taiwanese greeting, equivalent to 	scenario::Obrolan_Sosial register::casual taiwan
+去哪裡？	qù nǎ lǐ?	mau ke mana?	where are you going?	Casual greeting when passing someone	scenario::Obrolan_Sosial register::casual taiwan
+最近怎麼樣？	zuì jìn zěn me yàng?	belakangan ini bagaimana?	how have you been lately?		scenario::Obrolan_Sosial register::casual
+還好	hái hǎo	lumayan / biasa saja	not bad / okay		scenario::Obrolan_Sosial register::casual
+很好	hěn hǎo	sangat baik	very good		scenario::Obrolan_Sosial register::casual
+還行	hái xíng	masih oke / boleh lah	still okay / getting by		scenario::Obrolan_Sosial register::casual
+我叫⋯⋯	wǒ jiào...	nama saya ...	my name is ...		scenario::Obrolan_Sosial register::casual
+你叫什麼名字？	nǐ jiào shénme míngzì?	siapa namamu?	what is your name?		scenario::Obrolan_Sosial register::casual
+我是印尼人	wǒ shì Yìnní rén	saya orang Indonesia	I am Indonesian		scenario::Obrolan_Sosial register::casual
+你是哪裡人？	nǐ shì nǎlǐ rén?	kamu orang mana?	where are you from?		scenario::Obrolan_Sosial register::casual
+幸會	xìnghuì	senang berkenalan	nice to meet you		scenario::Obrolan_Sosial register::formal
+久仰	jiǔyǎng	sudah lama dengar nama Anda	I\		scenario::Obrolan_Sosial register::formal
+你的中文說得很好！	nǐ de zhōngwén shuō de hěn hǎo!	Mandarin kamu bagus sekali!	your Chinese is really good!		scenario::Obrolan_Sosial register::casual
+哪裡哪裡	nǎlǐ nǎlǐ	ah tidak juga / biasa saja (merendah)	oh not at all (humble reply)	Typical modest response to a compliment	scenario::Obrolan_Sosial register::casual taiwan
+你穿這個很好看	nǐ chuān zhège hěn hǎokàn	kamu kelihatan bagus pakai ini	you look great in this		scenario::Obrolan_Sosial register::casual
+好厲害喔！	hǎo lìhài o!	keren banget!	that\		scenario::Obrolan_Sosial register::casual
+你有空嗎？	nǐ yǒu kòng ma?	kamu ada waktu luang?	are you free?		scenario::Obrolan_Sosial register::casual
+我有空	wǒ yǒu kòng	saya ada waktu	I\		scenario::Obrolan_Sosial register::casual
+我沒空	wǒ méi kòng	saya tidak ada waktu	I\		scenario::Obrolan_Sosial register::casual
+要不要一起⋯⋯？	yào bú yào yīqǐ...?	mau tidak ... bersama?	want to ... together?		scenario::Obrolan_Sosial register::casual
+下次吧	xià cì ba	lain kali saja	maybe next time		scenario::Obrolan_Sosial register::casual
+沒問題	méi wèntí	tidak masalah / oke	no problem		scenario::Obrolan_Sosial register::casual
+等一下	děng yīxià	tunggu sebentar	wait a moment		scenario::Obrolan_Sosial register::casual
+對不起	duìbuqǐ	maaf (serius)	sorry (sincere)		scenario::Obrolan_Sosial register::casual
+不好意思	bù hǎo yìsi	permisi / maaf (ringan)	excuse me / sorry (light)	More common than 對不起 in daily Taiwan use	scenario::Obrolan_Sosial register::casual taiwan
+沒關係	méi guānxi	tidak apa-apa	it\		scenario::Obrolan_Sosial register::casual
+我不是故意的	wǒ bú shì gùyì de	saya tidak sengaja	I didn\		scenario::Obrolan_Sosial register::casual
+就是說	jiù shì shuō	maksudnya / yaitu	that is to say / I mean		scenario::Obrolan_Sosial register::casual tag::Taiwan
+對啊	duì a	iya betul	yeah, right / exactly		scenario::Obrolan_Sosial register::casual tag::Taiwan
+然後呢	rán hòu ne	terus? / lalu?	then? / and then?		scenario::Obrolan_Sosial register::casual tag::Taiwan
+欸	ēi	eh / hei	hey / eh		scenario::Obrolan_Sosial register::casual tag::Taiwan
+嘛	ma	(penekanan / ya sudah tahu)	(obviousness particle)		scenario::Obrolan_Sosial register::casual tag::Taiwan
+囉	lo	(penanda selesai / ya kan)	(completion / obvious particle)		scenario::Obrolan_Sosial register::casual tag::Taiwan
+你有LINE嗎？	nǐ yǒu LINE ma?	kamu punya LINE?	do you have LINE?	LINE is the dominant messaging app in Taiwan	scenario::Obrolan_Sosial register::casual taiwan
+加我好友	jiā wǒ hǎoyǒu	tambahkan aku sebagai teman	add me as a friend		scenario::Obrolan_Sosial register::casual
+傳訊息給我	chuán xùnxī gěi wǒ	kirimi saya pesan	send me a message		scenario::Obrolan_Sosial register::casual

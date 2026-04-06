@@ -1,0 +1,34 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Mandarin Taiwan
+#columns:Hanzi	Pinyin	Indonesian	English	Taiwan Note	Tags
+捷運	jié yùn	MRT / metro	MRT (Taipei Metro)	Used in Taiwan; mainland says 地鐵	scenario::Transportasi register::casual taiwan
+公車	gōng chē	bus kota	city bus		scenario::Transportasi register::casual
+計程車	jì chéng chē	taksi	taxi		scenario::Transportasi register::casual
+機車	jī chē	motor / skuter	scooter / motorbike	In Taiwan 機車 means scooter, not a bad word like in slang	scenario::Transportasi register::casual taiwan
+腳踏車	jiǎo tà chē	sepeda	bicycle		scenario::Transportasi register::casual
+高鐵	gāo tiě	kereta cepat (HSR)	High Speed Rail		scenario::Transportasi register::casual
+台鐵	Tái Tiě	kereta Taiwan (TRA)	Taiwan Railways		scenario::Transportasi register::casual
+車站	chē zhàn	stasiun	station		scenario::Transportasi register::casual
+月台	yuè tái	peron	platform		scenario::Transportasi register::casual
+請問，⋯⋯怎麼走？	qǐng wèn, ...zěn me zǒu?	Permisi, bagaimana cara ke ...?	Excuse me, how do I get to ...?		scenario::Transportasi register::casual
+直走	zhí zǒu	jalan lurus	go straight		scenario::Transportasi register::casual
+左轉	zuǒ zhuǎn	belok kiri	turn left		scenario::Transportasi register::casual
+右轉	yòu zhuǎn	belok kanan	turn right		scenario::Transportasi register::casual
+紅綠燈	hóng lǜ dēng	lampu merah	traffic light		scenario::Transportasi register::casual
+斑馬線	bān mǎ xiàn	zebra cross	crosswalk		scenario::Transportasi register::casual
+附近	fù jìn	di dekat sini / sekitar sini	nearby		scenario::Transportasi register::casual
+遠	yuǎn	jauh	far		scenario::Transportasi register::casual
+近	jìn	dekat	near		scenario::Transportasi register::casual
+走路幾分鐘？	zǒu lù jǐ fēn zhōng?	jalan kaki berapa menit?	how many minutes walking?		scenario::Transportasi register::casual
+悠遊卡	Yōuyóu Kǎ	kartu EasyCard	EasyCard (transit card)	Tap-and-go card used on MRT, buses, convenience stores	scenario::Transportasi register::casual taiwan
+儲值	chǔ zhí	isi ulang (kartu)	top up (card)		scenario::Transportasi register::casual
+出口	chū kǒu	pintu keluar	exit		scenario::Transportasi register::casual
+入口	rù kǒu	pintu masuk	entrance		scenario::Transportasi register::casual
+換乘	huàn chéng	ganti jalur / transit	transfer (transit)		scenario::Transportasi register::casual
+幾號出口？	jǐ hào chū kǒu?	pintu keluar nomor berapa?	which exit number?		scenario::Transportasi register::casual
+到⋯⋯多少錢？	dào ... duō shǎo qián?	ke ... berapa?	how much to ...?		scenario::Transportasi register::casual
+到這個地址	dào zhè gè dì zhǐ	ke alamat ini	to this address		scenario::Transportasi register::casual
+在這裡停	zài zhè lǐ tíng	berhenti di sini	stop here		scenario::Transportasi register::casual
+開收據	kāi shōu jù	minta kwitansi	give me a receipt		scenario::Transportasi register::casual

@@ -1,0 +1,106 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Mandarin Taiwan
+#columns:Hanzi	Pinyin	Indonesian	English	Taiwan Note	Tags
+吃飯	chī fàn	makan	to eat (a meal)		scenario::Makanan_&_Minuman register::casual
+喝	hē	minum	to drink		scenario::Makanan_&_Minuman register::casual
+好吃	hǎo chī	enak / lezat	delicious		scenario::Makanan_&_Minuman register::casual
+好喝	hǎo hē	enak (minuman)	tasty (drinks)		scenario::Makanan_&_Minuman register::casual
+餓	è	lapar	hungry		scenario::Makanan_&_Minuman register::casual
+渴	kě	haus	thirsty		scenario::Makanan_&_Minuman register::casual
+飽	bǎo	kenyang	full (after eating)		scenario::Makanan_&_Minuman register::casual
+點餐	diǎn cān	pesan makanan	to order food		scenario::Makanan_&_Minuman register::casual
+我要	wǒ yào	saya mau	I want / I\		scenario::Makanan_&_Minuman register::casual
+外帶	wài dài	bungkus / dibawa pulang	takeaway	Standard Taiwan term for takeout	scenario::Makanan_&_Minuman register::casual taiwan
+內用	nèi yòng	makan di tempat	dine in		scenario::Makanan_&_Minuman register::casual
+幾位？	jǐ wèi？	berapa orang?	how many people?		scenario::Makanan_&_Minuman register::casual
+一個人	yí gè rén	sendiri / satu orang	just one person		scenario::Makanan_&_Minuman register::casual
+兩個人	liǎng gè rén	dua orang	two people		scenario::Makanan_&_Minuman register::casual
+菜單	cài dān	menu	menu		scenario::Makanan_&_Minuman register::casual
+這個	zhè gè	yang ini	this one		scenario::Makanan_&_Minuman register::casual
+那個	nà gè	yang itu	that one		scenario::Makanan_&_Minuman register::casual
+一樣的	yí yàng de	yang sama	the same thing		scenario::Makanan_&_Minuman register::casual
+結帳	jié zhàng	bayar / minta nota	to pay / check please		scenario::Makanan_&_Minuman register::casual
+多少錢？	duō shǎo qián？	berapa harganya?	how much?		scenario::Makanan_&_Minuman register::casual
+刷卡	shuā kǎ	bayar pakai kartu	pay by card		scenario::Makanan_&_Minuman register::casual
+付現	fù xiàn	bayar tunai	pay cash		scenario::Makanan_&_Minuman register::casual
+找錢	zhǎo qián	kembalian	change (money back)		scenario::Makanan_&_Minuman register::casual
+發票	fā piào	struk / faktur	receipt / invoice	Taiwan uniform invoice — also a lottery ticket!	scenario::Makanan_&_Minuman register::casual taiwan
+便當	biàn dāng	kotak makan / bento	bento box lunch	Ubiquitous in Taiwan; from Japanese 弁当	scenario::Makanan_&_Minuman register::casual taiwan
+滷肉飯	lǔ ròu fàn	nasi babi semur Taiwan	braised pork rice	Iconic Taiwanese comfort food	scenario::Makanan_&_Minuman register::casual taiwan
+牛肉麵	niú ròu miàn	mie sapi	beef noodle soup		scenario::Makanan_&_Minuman register::casual
+小籠包	xiǎo lóng bāo	bakpao kuah kecil	soup dumplings		scenario::Makanan_&_Minuman register::casual
+臭豆腐	chòu dòu fu	tahu fermentasi berbau	stinky tofu		scenario::Makanan_&_Minuman register::casual
+蚵仔煎	é zǐ jiān	martabak tiram Taiwan	oyster omelette		scenario::Makanan_&_Minuman register::casual
+珍珠奶茶	zhēn zhū nǎi chá	bubble tea / boba	bubble milk tea	Invented in Taiwan	scenario::Makanan_&_Minuman register::casual taiwan
+豆漿	dòu jiāng	susu kedelai	soy milk		scenario::Makanan_&_Minuman register::casual
+燒餅油條	shāo bǐng yóu tiáo	roti sesame + cakwe	sesame flatbread + fried dough	Classic Taiwanese breakfast combo	scenario::Makanan_&_Minuman register::casual taiwan
+幾分糖？	jǐ fēn táng？	berapa kadar gula?	how sweet? (sugar level)		scenario::Makanan_&_Minuman register::casual
+全糖	quán táng	gula penuh (100%)	full sugar		scenario::Makanan_&_Minuman register::casual
+半糖	bàn táng	setengah gula (50%)	half sugar		scenario::Makanan_&_Minuman register::casual
+少糖	shǎo táng	sedikit gula (30%)	less sugar		scenario::Makanan_&_Minuman register::casual
+無糖	wú táng	tanpa gula	no sugar		scenario::Makanan_&_Minuman register::casual
+去冰	qù bīng	tanpa es	no ice		scenario::Makanan_&_Minuman register::casual
+少冰	shǎo bīng	sedikit es	less ice		scenario::Makanan_&_Minuman register::casual
+正常冰	zhèng cháng bīng	es normal	normal ice		scenario::Makanan_&_Minuman register::casual
+熱的	rè de	yang panas	hot		scenario::Makanan_&_Minuman register::casual
+冷的	lěng de	yang dingin	cold		scenario::Makanan_&_Minuman register::casual
+夜市	yè shì	pasar malam	night market	Central to Taiwanese social life	scenario::Makanan_&_Minuman register::casual taiwan
+攤位	tān wèi	stan / lapak	stall / booth		scenario::Makanan_&_Minuman register::casual
+排隊	pái duì	antri	to queue		scenario::Makanan_&_Minuman register::casual
+等一下	děng yī xià	tunggu sebentar	wait a moment		scenario::Makanan_&_Minuman register::casual
+素食	sù shí	vegetarian	vegetarian food	Taiwan has abundant vegetarian options	scenario::Makanan_&_Minuman register::casual taiwan
+不吃肉	bù chī ròu	tidak makan daging	don\		scenario::Makanan_&_Minuman register::casual
+辣	là	pedas	spicy		scenario::Makanan_&_Minuman register::casual
+不要辣	bù yào là	jangan pedas	no spice please		scenario::Makanan_&_Minuman register::casual
+過敏	guò mǐn	alergi	allergy		scenario::Makanan_&_Minuman register::casual
+蛋餅	dàn bǐng	crepe telur	egg crepe	Most popular Taiwanese breakfast item — soft rolled crepe with egg	scenario::Makanan_&_Minuman register::casual taiwan
+三明治	sānmíngzhì	sandwich	sandwich		scenario::Makanan_&_Minuman register::casual
+吐司	tǔsī	roti tawar	toast / bread		scenario::Makanan_&_Minuman register::casual
+饅頭	mántou	roti kukus polos	steamed bun (plain)		scenario::Makanan_&_Minuman register::casual
+包子	bāozi	bakpao isi	filled steamed bun		scenario::Makanan_&_Minuman register::casual
+蘿蔔糕	luóbo gāo	kue lobak goreng	radish cake (pan-fried)	Pan-fried turnip cake, common at breakfast shops	scenario::Makanan_&_Minuman register::casual taiwan
+飯糰	fàntuán	onigiri / nasi gulung Taiwan	rice roll	Taiwan rice roll is bigger than Japanese onigiri, with fillings inside	scenario::Makanan_&_Minuman register::casual taiwan
+鐵板麵	tiěbǎn miàn	mie hot plate	hot plate noodles		scenario::Makanan_&_Minuman register::casual
+魯蛋	lǔ dàn	telur semur	braised egg		scenario::Makanan_&_Minuman register::casual
+荷包蛋	hébāo dàn	telur mata sapi	fried egg (sunny side up)		scenario::Makanan_&_Minuman register::casual
+炒蛋	chǎo dàn	telur orak-arik	scrambled egg		scenario::Makanan_&_Minuman register::casual
+鹹豆漿	xián dòujiāng	susu kedelai asin (panas)	savory soy milk	Hot soy milk with vinegar, dried shrimp, and you-tiao — traditional Taiwanese breakfast	scenario::Makanan_&_Minuman register::casual taiwan
+米漿	mǐ jiāng	susu beras	rice milk		scenario::Makanan_&_Minuman register::casual
+奶茶	nǎi chá	teh susu / milk tea	milk tea		scenario::Makanan_&_Minuman register::casual
+紅茶	hóng chá	teh hitam	black tea		scenario::Makanan_&_Minuman register::casual
+綠茶	lǜ chá	teh hijau	green tea		scenario::Makanan_&_Minuman register::casual
+鮮奶茶	xiān nǎi chá	teh susu segar	fresh milk tea		scenario::Makanan_&_Minuman register::casual
+咖啡	kāfēi	kopi	coffee		scenario::Makanan_&_Minuman register::casual
+微糖	wēi táng	sedikit sekali gula (20%)	little sugar (20%)	微糖 is even less sweet than 少糖	scenario::Makanan_&_Minuman register::casual taiwan
+七分糖	qī fēn táng	gula 70%	70% sugar		scenario::Makanan_&_Minuman register::casual
+三分糖	sān fēn táng	gula 30%	30% sugar		scenario::Makanan_&_Minuman register::casual
+溫的	wēn de	yang hangat	warm		scenario::Makanan_&_Minuman register::casual
+常溫	cháng wēn	suhu ruangan (tanpa es)	room temperature		scenario::Makanan_&_Minuman register::casual
+微冰	wēi bīng	sedikit sekali es	barely any ice		scenario::Makanan_&_Minuman register::casual
+加料	jiā liào	tambah topping	add toppings		scenario::Makanan_&_Minuman register::casual
+珍珠	zhēnzhū	boba / tapioka	tapioca pearls (boba)	Also called 粉圓 (fěnyuán) in some shops	scenario::Makanan_&_Minuman register::casual taiwan
+波霸	bōbà	boba besar	large tapioca pearls	波霸 are bigger and chewier than regular 珍珠	scenario::Makanan_&_Minuman register::casual taiwan
+布丁	bùdīng	puding	pudding (topping)		scenario::Makanan_&_Minuman register::casual
+椰果	yēguǒ	nata de coco	coconut jelly		scenario::Makanan_&_Minuman register::casual
+仙草	xiāncǎo	cincau hitam	grass jelly		scenario::Makanan_&_Minuman register::casual
+芋圓	yùyuán	bola talas / taro ball	taro ball	Specialty from Jiufen — chewy taro and sweet potato balls	scenario::Makanan_&_Minuman register::casual taiwan
+紅豆	hóngdòu	kacang merah	red bean		scenario::Makanan_&_Minuman register::casual
+燕麥	yànmài	oat	oats		scenario::Makanan_&_Minuman register::casual
+不要加料	bú yào jiā liào	tidak usah tambah topping	no toppings		scenario::Makanan_&_Minuman register::casual
+有優惠嗎？	yǒu yōuhuì ma?	ada promo / diskon?	any discounts / deals?	Very common question — shops often have 買一送一 or app discounts	scenario::Makanan_&_Minuman register::casual taiwan
+優惠	yōuhuì	promo / diskon / keuntungan	discount / special offer		scenario::Makanan_&_Minuman register::casual
+買一送一	mǎi yī sòng yī	beli satu gratis satu	buy one get one free	Extremely common in Taiwan, especially at drink shops on certain days	scenario::Makanan_&_Minuman register::casual taiwan
+集點	jí diǎn	kumpulkan poin / stamp	collect loyalty points	集點 cards at 7-11 and FamilyMart are a big deal in Taiwan culture	scenario::Makanan_&_Minuman register::casual taiwan
+點數	diǎnshù	poin	points (loyalty)		scenario::Makanan_&_Minuman register::casual
+會員優惠	huìyuán yōuhuì	diskon member	member discount		scenario::Makanan_&_Minuman register::casual
+折扣	zhékòu	diskon	discount		scenario::Makanan_&_Minuman register::casual
+打八折	dǎ bā zhé	diskon 20% (bayar 80%)	20% off (pay 80%)	Taiwan discounts work backwards — 八折 means pay 80%, not get 80% off	scenario::Makanan_&_Minuman register::casual taiwan
+需要發票嗎？	xūyào fāpiào ma?	perlu faktur / struk pajak?	do you need an invoice?	Asked at every register — Taiwan uniform invoices double as lottery tickets	scenario::Makanan_&_Minuman register::casual taiwan
+統一發票	tǒngyī fāpiào	struk pajak seragam Taiwan	Taiwan uniform invoice	Government-mandated receipt — has a lottery number printed on it, drawn every 2 months	scenario::Makanan_&_Minuman register::casual taiwan
+電子發票	diànzǐ fāpiào	struk elektronik (e-invoice)	electronic invoice	Can be stored on EasyCard or phone instead of paper	scenario::Makanan_&_Minuman register::casual taiwan
+載具	zàijù	dompet e-invoice (carrier)	invoice carrier (digital wallet)	載具 stores your e-invoices digitally — link with EasyCard or phone number	scenario::Makanan_&_Minuman register::casual taiwan
+不用發票	bú yòng fāpiào	tidak perlu struk	no receipt needed		scenario::Makanan_&_Minuman register::casual
+啦	la	(partikel penegas/santai)	(softening / friendly particle)	好吃啦 = so good! Very common in casual speech	scenario::Makanan_&_Minuman register::casual tag::Taiwan taiwan
+喔	o	(partikel informasi baru)	(new info / mild surprise particle)		scenario::Makanan_&_Minuman register::casual tag::Taiwan

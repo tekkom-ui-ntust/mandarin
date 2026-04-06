@@ -1,0 +1,41 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Mandarin Taiwan
+#columns:Hanzi	Pinyin	Indonesian	English	Taiwan Note	Tags
+最近的	zuì jìn de	yang paling dekat	the nearest		scenario::Tanya_Lokasi register::casual
+附近有沒有⋯⋯？	fùjìn yǒu méiyǒu...?	di dekat sini ada ... tidak?	is there a ... nearby?		scenario::Tanya_Lokasi register::casual
+最近的全家在哪裡？	zuì jìn de Quánjiā zài nǎlǐ?	FamilyMart terdekat ada di mana?	where is the nearest FamilyMart?		scenario::Tanya_Lokasi register::casual
+最近的超商在哪裡？	zuì jìn de chāoshāng zài nǎlǐ?	minimarket terdekat di mana?	where is the nearest convenience store?		scenario::Tanya_Lokasi register::casual
+最近的提款機在哪裡？	zuì jìn de tíkuǎnjī zài nǎlǐ?	ATM terdekat di mana?	where is the nearest ATM?		scenario::Tanya_Lokasi register::casual
+最近的捷運站在哪裡？	zuì jìn de jiéyùn zhàn zài nǎlǐ?	stasiun MRT terdekat di mana?	where is the nearest MRT station?		scenario::Tanya_Lokasi register::casual
+最近的藥局在哪裡？	zuì jìn de yàojú zài nǎlǐ?	apotek terdekat di mana?	where is the nearest pharmacy?		scenario::Tanya_Lokasi register::casual
+最近的廁所在哪裡？	zuì jìn de cèsuǒ zài nǎlǐ?	toilet terdekat di mana?	where is the nearest toilet?		scenario::Tanya_Lokasi register::casual
+最近的停車場在哪裡？	zuì jìn de tíngchēchǎng zài nǎlǐ?	parkir terdekat di mana?	where is the nearest parking?		scenario::Tanya_Lokasi register::casual
+這附近有餐廳嗎？	zhè fùjìn yǒu cāntīng ma?	di sekitar sini ada restoran?	is there a restaurant around here?		scenario::Tanya_Lokasi register::casual
+這附近有咖啡廳嗎？	zhè fùjìn yǒu kāfēitīng ma?	di sekitar sini ada kafe?	is there a café around here?		scenario::Tanya_Lokasi register::casual
+就在前面	jiù zài qiánmiàn	tepat di depan	right ahead		scenario::Tanya_Lokasi register::casual
+就在旁邊	jiù zài pángbiān	tepat di sebelah	right next to it		scenario::Tanya_Lokasi register::casual
+就在對面	jiù zài duìmiàn	tepat di seberang	right across		scenario::Tanya_Lokasi register::casual
+在⋯⋯旁邊	zài ... pángbiān	di sebelah ...	next to ...		scenario::Tanya_Lokasi register::casual
+在⋯⋯對面	zài ... duìmiàn	di seberang ...	across from ...		scenario::Tanya_Lokasi register::casual
+在⋯⋯樓上	zài ... lóu shàng	di lantai atas ...	upstairs / on floor ...		scenario::Tanya_Lokasi register::casual
+在⋯⋯樓下	zài ... lóu xià	di lantai bawah	downstairs		scenario::Tanya_Lokasi register::casual
+走路大概⋯⋯分鐘	zǒulù dàgài ... fēnzhōng	jalan kaki kira-kira ... menit	about ... minutes walk		scenario::Tanya_Lokasi register::casual
+很近，走路就到了	hěn jìn, zǒulù jiù dào le	sangat dekat, jalan kaki saja sudah sampai	very close, just walk there		scenario::Tanya_Lokasi register::casual
+有點遠，你最好搭車	yǒudiǎn yuǎn, nǐ zuìhǎo dāchē	agak jauh, sebaiknya naik kendaraan	a bit far, better take transport		scenario::Tanya_Lokasi register::casual
+我不太清楚	wǒ bú tài qīngchǔ	saya kurang tahu	I\		scenario::Tanya_Lokasi register::casual
+你可以用Google地圖找	nǐ kěyǐ yòng Google Dìtú zhǎo	kamu bisa cari pakai Google Maps	you can search on Google Maps	Very common answer — Google Maps works great in Taiwan	scenario::Tanya_Lokasi register::casual taiwan
+路口	lùkǒu	persimpangan jalan	intersection		scenario::Tanya_Lokasi register::casual
+巷子	xiàngzi	gang / lorong	alley / lane	Taiwan addresses include 巷 (lane) and 弄 (alley) numbers	scenario::Tanya_Lokasi register::casual taiwan
+巷	xiàng	gang (dalam alamat)	lane (in address)		scenario::Tanya_Lokasi register::casual
+弄	nòng	gang kecil (dalam alamat)	alley (in address)		scenario::Tanya_Lokasi register::casual
+號	hào	nomor (dalam alamat)	number (in address)		scenario::Tanya_Lokasi register::casual
+樓	lóu	lantai	floor / storey		scenario::Tanya_Lokasi register::casual
+一樓	yī lóu	lantai 1 (lantai dasar)	ground floor	Taiwan uses 1F for ground floor, same as US system	scenario::Tanya_Lokasi register::casual taiwan
+地下室	dìxiàshì	basement	basement		scenario::Tanya_Lokasi register::casual
+電梯	diàntī	lift / elevator	elevator		scenario::Tanya_Lokasi register::casual
+樓梯	lóutī	tangga	stairs		scenario::Tanya_Lokasi register::casual
+地址	dìzhǐ	alamat	address		scenario::Tanya_Lokasi register::casual
+請問這個地址怎麼走？	qǐng wèn zhège dìzhǐ zěnme zǒu?	permisi, cara ke alamat ini bagaimana?	excuse me, how do I get to this address?		scenario::Tanya_Lokasi register::casual
+你可以帶我去嗎？	nǐ kěyǐ dài wǒ qù ma?	bisakah kamu antar saya ke sana?	can you take me there?		scenario::Tanya_Lokasi register::casual

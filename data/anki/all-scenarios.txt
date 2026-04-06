@@ -1,0 +1,471 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Mandarin Taiwan
+#columns:Hanzi	Pinyin	Indonesian	English	Taiwan Note	Tags
+麥當勞	Màidāngláo	McDonald\	McDonald\		scenario::Tempat_&_Merek register::casual tag::Places
+肯德基	Kěndéjī	KFC	KFC		scenario::Tempat_&_Merek register::casual tag::Places
+摩斯漢堡	Mósī Hànbǎo	MOS Burger	MOS Burger		scenario::Tempat_&_Merek register::casual tag::Places
+漢堡王	Hànbǎo Wáng	Burger King	Burger King		scenario::Tempat_&_Merek register::casual tag::Places
+必勝客	Bìshèngkè	Pizza Hut	Pizza Hut		scenario::Tempat_&_Merek register::casual tag::Places
+鼎泰豐	Dǐng Tài Fēng	Din Tai Fung	Din Tai Fung		scenario::Tempat_&_Merek register::casual tag::Places
+統一超商	Tǒngyī Chāoshāng	7-Eleven Taiwan	7-Eleven Taiwan	Most 7-Elevens in Taiwan are run by Uni-President	scenario::Tempat_&_Merek register::casual tag::Places taiwan
+全家	Quánjiā	FamilyMart	FamilyMart		scenario::Tempat_&_Merek register::casual tag::Places
+萊爾富	Lái\	Hi-Life	Hi-Life		scenario::Tempat_&_Merek register::casual tag::Places
+全聯	Quánlián	PX Mart	PX Mart	Most popular supermarket in Taiwan	scenario::Tempat_&_Merek register::casual tag::Places taiwan
+大潤發	Dàrùnfā	RT Mart	RT Mart		scenario::Tempat_&_Merek register::casual tag::Places
+家樂福	Jiālèfú	Carrefour	Carrefour		scenario::Tempat_&_Merek register::casual tag::Places
+好市多	Hǎoshìduō	Costco	Costco		scenario::Tempat_&_Merek register::casual tag::Places
+星巴克	Xīngbākè	Starbucks	Starbucks		scenario::Tempat_&_Merek register::casual tag::Places
+路易莎	Lùyìshā	Louisa Coffee	Louisa Coffee	Popular local coffee chain, cheaper than Starbucks	scenario::Tempat_&_Merek register::casual tag::Places taiwan
+85度C	Bāwǔ Dù C	85°C Bakery Cafe	85°C Bakery Cafe		scenario::Tempat_&_Merek register::casual tag::Places
+50嵐	Wǔshí Lán	50 Lan (bubble tea)	50 Lan		scenario::Tempat_&_Merek register::casual tag::Places
+康是美	Kāngshìměi	Cosmed	Cosmed	Pharmacy + beauty store chain	scenario::Tempat_&_Merek register::casual tag::Places taiwan
+屈臣氏	Qūchénshì	Watson\	Watson\		scenario::Tempat_&_Merek register::casual tag::Places
+寶雅	Bǎoyǎ	POYA	POYA beauty store		scenario::Tempat_&_Merek register::casual tag::Places
+台灣銀行	Táiwān Yínháng	Bank of Taiwan	Bank of Taiwan		scenario::Tempat_&_Merek register::formal tag::Places
+中國信託	Zhōngguó Xìntuō	CTBC Bank	CTBC Bank		scenario::Tempat_&_Merek register::formal tag::Places
+玉山銀行	Yùshān Yínháng	E.Sun Bank	E.Sun Bank		scenario::Tempat_&_Merek register::formal tag::Places
+郵局	yóujú	kantor pos (juga ada layanan bank)	post office (with banking)	Chunghwa Post also offers savings accounts	scenario::Tempat_&_Merek register::casual tag::Places taiwan
+台北	Táiběi	Taipei	Taipei		scenario::Tempat_&_Merek register::casual tag::Places
+新北	Xīnběi	New Taipei	New Taipei City		scenario::Tempat_&_Merek register::casual tag::Places
+桃園	Táoyuán	Taoyuan	Taoyuan		scenario::Tempat_&_Merek register::casual tag::Places
+台中	Táizhōng	Taichung	Taichung		scenario::Tempat_&_Merek register::casual tag::Places
+台南	Táinán	Tainan	Tainan		scenario::Tempat_&_Merek register::casual tag::Places
+高雄	Gāoxióng	Kaohsiung	Kaohsiung		scenario::Tempat_&_Merek register::casual tag::Places
+花蓮	Huālián	Hualien	Hualien		scenario::Tempat_&_Merek register::casual tag::Places
+台東	Táidōng	Taitung	Taitung		scenario::Tempat_&_Merek register::casual tag::Places
+宜蘭	Yílán	Yilan	Yilan		scenario::Tempat_&_Merek register::casual tag::Places
+基隆	Jīlóng	Keelung	Keelung		scenario::Tempat_&_Merek register::casual tag::Places
+新竹	Xīnzhú	Hsinchu	Hsinchu		scenario::Tempat_&_Merek register::casual tag::Places
+澎湖	Pénghú	Penghu (Pescadores)	Penghu		scenario::Tempat_&_Merek register::casual tag::Places
+台北101	Táiběi Yī-líng-yī	Taipei 101	Taipei 101		scenario::Tempat_&_Merek register::casual tag::Places
+故宮博物院	Gùgōng Bówùyuàn	Museum Istana Nasional	National Palace Museum		scenario::Tempat_&_Merek register::casual tag::Places
+龍山寺	Lóngshān Sì	Kuil Longshan	Longshan Temple		scenario::Tempat_&_Merek register::casual tag::Places
+九份	Jiǔfèn	Jiufen	Jiufen		scenario::Tempat_&_Merek register::casual tag::Places
+日月潭	Rìyuè Tán	Danau Sun Moon	Sun Moon Lake		scenario::Tempat_&_Merek register::casual tag::Places
+太魯閣	Tàilǔgé	Taroko Gorge	Taroko Gorge		scenario::Tempat_&_Merek register::casual tag::Places
+阿里山	Ālǐshān	Alishan	Alishan		scenario::Tempat_&_Merek register::casual tag::Places
+墾丁	Kěndīng	Kenting	Kenting		scenario::Tempat_&_Merek register::casual tag::Places
+士林夜市	Shìlín Yèshì	Pasar Malam Shilin	Shilin Night Market		scenario::Tempat_&_Merek register::casual tag::Places
+饒河夜市	Ráohé Yèshì	Pasar Malam Raohe	Raohe Night Market		scenario::Tempat_&_Merek register::casual tag::Places
+逢甲夜市	Féngjiǎ Yèshì	Pasar Malam Fengjia (Taichung)	Fengjia Night Market		scenario::Tempat_&_Merek register::casual tag::Places
+六合夜市	Liùhé Yèshì	Pasar Malam Liuhe (Kaohsiung)	Liuhe Night Market		scenario::Tempat_&_Merek register::casual tag::Places
+台北車站	Táiběi Chēzhàn	Stasiun Taipei	Taipei Main Station		scenario::Tempat_&_Merek register::casual tag::Places
+桃園機場	Táoyuán Jīchǎng	Bandara Taoyuan	Taoyuan Airport		scenario::Tempat_&_Merek register::casual tag::Places
+吃飯	chī fàn	makan	to eat (a meal)		scenario::Makanan_&_Minuman register::casual
+喝	hē	minum	to drink		scenario::Makanan_&_Minuman register::casual
+好吃	hǎo chī	enak / lezat	delicious		scenario::Makanan_&_Minuman register::casual
+好喝	hǎo hē	enak (minuman)	tasty (drinks)		scenario::Makanan_&_Minuman register::casual
+餓	è	lapar	hungry		scenario::Makanan_&_Minuman register::casual
+渴	kě	haus	thirsty		scenario::Makanan_&_Minuman register::casual
+飽	bǎo	kenyang	full (after eating)		scenario::Makanan_&_Minuman register::casual
+點餐	diǎn cān	pesan makanan	to order food		scenario::Makanan_&_Minuman register::casual
+我要	wǒ yào	saya mau	I want / I\		scenario::Makanan_&_Minuman register::casual
+外帶	wài dài	bungkus / dibawa pulang	takeaway	Standard Taiwan term for takeout	scenario::Makanan_&_Minuman register::casual taiwan
+內用	nèi yòng	makan di tempat	dine in		scenario::Makanan_&_Minuman register::casual
+幾位？	jǐ wèi？	berapa orang?	how many people?		scenario::Makanan_&_Minuman register::casual
+一個人	yí gè rén	sendiri / satu orang	just one person		scenario::Makanan_&_Minuman register::casual
+兩個人	liǎng gè rén	dua orang	two people		scenario::Makanan_&_Minuman register::casual
+菜單	cài dān	menu	menu		scenario::Makanan_&_Minuman register::casual
+這個	zhè gè	yang ini	this one		scenario::Makanan_&_Minuman register::casual
+那個	nà gè	yang itu	that one		scenario::Makanan_&_Minuman register::casual
+一樣的	yí yàng de	yang sama	the same thing		scenario::Makanan_&_Minuman register::casual
+結帳	jié zhàng	bayar / minta nota	to pay / check please		scenario::Makanan_&_Minuman register::casual
+多少錢？	duō shǎo qián？	berapa harganya?	how much?		scenario::Makanan_&_Minuman register::casual
+刷卡	shuā kǎ	bayar pakai kartu	pay by card		scenario::Makanan_&_Minuman register::casual
+付現	fù xiàn	bayar tunai	pay cash		scenario::Makanan_&_Minuman register::casual
+找錢	zhǎo qián	kembalian	change (money back)		scenario::Makanan_&_Minuman register::casual
+發票	fā piào	struk / faktur	receipt / invoice	Taiwan uniform invoice — also a lottery ticket!	scenario::Makanan_&_Minuman register::casual taiwan
+便當	biàn dāng	kotak makan / bento	bento box lunch	Ubiquitous in Taiwan; from Japanese 弁当	scenario::Makanan_&_Minuman register::casual taiwan
+滷肉飯	lǔ ròu fàn	nasi babi semur Taiwan	braised pork rice	Iconic Taiwanese comfort food	scenario::Makanan_&_Minuman register::casual taiwan
+牛肉麵	niú ròu miàn	mie sapi	beef noodle soup		scenario::Makanan_&_Minuman register::casual
+小籠包	xiǎo lóng bāo	bakpao kuah kecil	soup dumplings		scenario::Makanan_&_Minuman register::casual
+臭豆腐	chòu dòu fu	tahu fermentasi berbau	stinky tofu		scenario::Makanan_&_Minuman register::casual
+蚵仔煎	é zǐ jiān	martabak tiram Taiwan	oyster omelette		scenario::Makanan_&_Minuman register::casual
+珍珠奶茶	zhēn zhū nǎi chá	bubble tea / boba	bubble milk tea	Invented in Taiwan	scenario::Makanan_&_Minuman register::casual taiwan
+豆漿	dòu jiāng	susu kedelai	soy milk		scenario::Makanan_&_Minuman register::casual
+燒餅油條	shāo bǐng yóu tiáo	roti sesame + cakwe	sesame flatbread + fried dough	Classic Taiwanese breakfast combo	scenario::Makanan_&_Minuman register::casual taiwan
+幾分糖？	jǐ fēn táng？	berapa kadar gula?	how sweet? (sugar level)		scenario::Makanan_&_Minuman register::casual
+全糖	quán táng	gula penuh (100%)	full sugar		scenario::Makanan_&_Minuman register::casual
+半糖	bàn táng	setengah gula (50%)	half sugar		scenario::Makanan_&_Minuman register::casual
+少糖	shǎo táng	sedikit gula (30%)	less sugar		scenario::Makanan_&_Minuman register::casual
+無糖	wú táng	tanpa gula	no sugar		scenario::Makanan_&_Minuman register::casual
+去冰	qù bīng	tanpa es	no ice		scenario::Makanan_&_Minuman register::casual
+少冰	shǎo bīng	sedikit es	less ice		scenario::Makanan_&_Minuman register::casual
+正常冰	zhèng cháng bīng	es normal	normal ice		scenario::Makanan_&_Minuman register::casual
+熱的	rè de	yang panas	hot		scenario::Makanan_&_Minuman register::casual
+冷的	lěng de	yang dingin	cold		scenario::Makanan_&_Minuman register::casual
+夜市	yè shì	pasar malam	night market	Central to Taiwanese social life	scenario::Makanan_&_Minuman register::casual taiwan
+攤位	tān wèi	stan / lapak	stall / booth		scenario::Makanan_&_Minuman register::casual
+排隊	pái duì	antri	to queue		scenario::Makanan_&_Minuman register::casual
+等一下	děng yī xià	tunggu sebentar	wait a moment		scenario::Makanan_&_Minuman register::casual
+素食	sù shí	vegetarian	vegetarian food	Taiwan has abundant vegetarian options	scenario::Makanan_&_Minuman register::casual taiwan
+不吃肉	bù chī ròu	tidak makan daging	don\		scenario::Makanan_&_Minuman register::casual
+辣	là	pedas	spicy		scenario::Makanan_&_Minuman register::casual
+不要辣	bù yào là	jangan pedas	no spice please		scenario::Makanan_&_Minuman register::casual
+過敏	guò mǐn	alergi	allergy		scenario::Makanan_&_Minuman register::casual
+蛋餅	dàn bǐng	crepe telur	egg crepe	Most popular Taiwanese breakfast item — soft rolled crepe with egg	scenario::Makanan_&_Minuman register::casual taiwan
+三明治	sānmíngzhì	sandwich	sandwich		scenario::Makanan_&_Minuman register::casual
+吐司	tǔsī	roti tawar	toast / bread		scenario::Makanan_&_Minuman register::casual
+饅頭	mántou	roti kukus polos	steamed bun (plain)		scenario::Makanan_&_Minuman register::casual
+包子	bāozi	bakpao isi	filled steamed bun		scenario::Makanan_&_Minuman register::casual
+蘿蔔糕	luóbo gāo	kue lobak goreng	radish cake (pan-fried)	Pan-fried turnip cake, common at breakfast shops	scenario::Makanan_&_Minuman register::casual taiwan
+飯糰	fàntuán	onigiri / nasi gulung Taiwan	rice roll	Taiwan rice roll is bigger than Japanese onigiri, with fillings inside	scenario::Makanan_&_Minuman register::casual taiwan
+鐵板麵	tiěbǎn miàn	mie hot plate	hot plate noodles		scenario::Makanan_&_Minuman register::casual
+魯蛋	lǔ dàn	telur semur	braised egg		scenario::Makanan_&_Minuman register::casual
+荷包蛋	hébāo dàn	telur mata sapi	fried egg (sunny side up)		scenario::Makanan_&_Minuman register::casual
+炒蛋	chǎo dàn	telur orak-arik	scrambled egg		scenario::Makanan_&_Minuman register::casual
+鹹豆漿	xián dòujiāng	susu kedelai asin (panas)	savory soy milk	Hot soy milk with vinegar, dried shrimp, and you-tiao — traditional Taiwanese breakfast	scenario::Makanan_&_Minuman register::casual taiwan
+米漿	mǐ jiāng	susu beras	rice milk		scenario::Makanan_&_Minuman register::casual
+奶茶	nǎi chá	teh susu / milk tea	milk tea		scenario::Makanan_&_Minuman register::casual
+紅茶	hóng chá	teh hitam	black tea		scenario::Makanan_&_Minuman register::casual
+綠茶	lǜ chá	teh hijau	green tea		scenario::Makanan_&_Minuman register::casual
+鮮奶茶	xiān nǎi chá	teh susu segar	fresh milk tea		scenario::Makanan_&_Minuman register::casual
+咖啡	kāfēi	kopi	coffee		scenario::Makanan_&_Minuman register::casual
+微糖	wēi táng	sedikit sekali gula (20%)	little sugar (20%)	微糖 is even less sweet than 少糖	scenario::Makanan_&_Minuman register::casual taiwan
+七分糖	qī fēn táng	gula 70%	70% sugar		scenario::Makanan_&_Minuman register::casual
+三分糖	sān fēn táng	gula 30%	30% sugar		scenario::Makanan_&_Minuman register::casual
+溫的	wēn de	yang hangat	warm		scenario::Makanan_&_Minuman register::casual
+常溫	cháng wēn	suhu ruangan (tanpa es)	room temperature		scenario::Makanan_&_Minuman register::casual
+微冰	wēi bīng	sedikit sekali es	barely any ice		scenario::Makanan_&_Minuman register::casual
+加料	jiā liào	tambah topping	add toppings		scenario::Makanan_&_Minuman register::casual
+珍珠	zhēnzhū	boba / tapioka	tapioca pearls (boba)	Also called 粉圓 (fěnyuán) in some shops	scenario::Makanan_&_Minuman register::casual taiwan
+波霸	bōbà	boba besar	large tapioca pearls	波霸 are bigger and chewier than regular 珍珠	scenario::Makanan_&_Minuman register::casual taiwan
+布丁	bùdīng	puding	pudding (topping)		scenario::Makanan_&_Minuman register::casual
+椰果	yēguǒ	nata de coco	coconut jelly		scenario::Makanan_&_Minuman register::casual
+仙草	xiāncǎo	cincau hitam	grass jelly		scenario::Makanan_&_Minuman register::casual
+芋圓	yùyuán	bola talas / taro ball	taro ball	Specialty from Jiufen — chewy taro and sweet potato balls	scenario::Makanan_&_Minuman register::casual taiwan
+紅豆	hóngdòu	kacang merah	red bean		scenario::Makanan_&_Minuman register::casual
+燕麥	yànmài	oat	oats		scenario::Makanan_&_Minuman register::casual
+不要加料	bú yào jiā liào	tidak usah tambah topping	no toppings		scenario::Makanan_&_Minuman register::casual
+有優惠嗎？	yǒu yōuhuì ma?	ada promo / diskon?	any discounts / deals?	Very common question — shops often have 買一送一 or app discounts	scenario::Makanan_&_Minuman register::casual taiwan
+優惠	yōuhuì	promo / diskon / keuntungan	discount / special offer		scenario::Makanan_&_Minuman register::casual
+買一送一	mǎi yī sòng yī	beli satu gratis satu	buy one get one free	Extremely common in Taiwan, especially at drink shops on certain days	scenario::Makanan_&_Minuman register::casual taiwan
+集點	jí diǎn	kumpulkan poin / stamp	collect loyalty points	集點 cards at 7-11 and FamilyMart are a big deal in Taiwan culture	scenario::Makanan_&_Minuman register::casual taiwan
+點數	diǎnshù	poin	points (loyalty)		scenario::Makanan_&_Minuman register::casual
+會員優惠	huìyuán yōuhuì	diskon member	member discount		scenario::Makanan_&_Minuman register::casual
+折扣	zhékòu	diskon	discount		scenario::Makanan_&_Minuman register::casual
+打八折	dǎ bā zhé	diskon 20% (bayar 80%)	20% off (pay 80%)	Taiwan discounts work backwards — 八折 means pay 80%, not get 80% off	scenario::Makanan_&_Minuman register::casual taiwan
+需要發票嗎？	xūyào fāpiào ma?	perlu faktur / struk pajak?	do you need an invoice?	Asked at every register — Taiwan uniform invoices double as lottery tickets	scenario::Makanan_&_Minuman register::casual taiwan
+統一發票	tǒngyī fāpiào	struk pajak seragam Taiwan	Taiwan uniform invoice	Government-mandated receipt — has a lottery number printed on it, drawn every 2 months	scenario::Makanan_&_Minuman register::casual taiwan
+電子發票	diànzǐ fāpiào	struk elektronik (e-invoice)	electronic invoice	Can be stored on EasyCard or phone instead of paper	scenario::Makanan_&_Minuman register::casual taiwan
+載具	zàijù	dompet e-invoice (carrier)	invoice carrier (digital wallet)	載具 stores your e-invoices digitally — link with EasyCard or phone number	scenario::Makanan_&_Minuman register::casual taiwan
+不用發票	bú yòng fāpiào	tidak perlu struk	no receipt needed		scenario::Makanan_&_Minuman register::casual
+啦	la	(partikel penegas/santai)	(softening / friendly particle)	好吃啦 = so good! Very common in casual speech	scenario::Makanan_&_Minuman register::casual tag::Taiwan taiwan
+喔	o	(partikel informasi baru)	(new info / mild surprise particle)		scenario::Makanan_&_Minuman register::casual tag::Taiwan
+捷運	jié yùn	MRT / metro	MRT (Taipei Metro)	Used in Taiwan; mainland says 地鐵	scenario::Transportasi register::casual taiwan
+公車	gōng chē	bus kota	city bus		scenario::Transportasi register::casual
+計程車	jì chéng chē	taksi	taxi		scenario::Transportasi register::casual
+機車	jī chē	motor / skuter	scooter / motorbike	In Taiwan 機車 means scooter, not a bad word like in slang	scenario::Transportasi register::casual taiwan
+腳踏車	jiǎo tà chē	sepeda	bicycle		scenario::Transportasi register::casual
+高鐵	gāo tiě	kereta cepat (HSR)	High Speed Rail		scenario::Transportasi register::casual
+台鐵	Tái Tiě	kereta Taiwan (TRA)	Taiwan Railways		scenario::Transportasi register::casual
+車站	chē zhàn	stasiun	station		scenario::Transportasi register::casual
+月台	yuè tái	peron	platform		scenario::Transportasi register::casual
+請問，⋯⋯怎麼走？	qǐng wèn, ...zěn me zǒu?	Permisi, bagaimana cara ke ...?	Excuse me, how do I get to ...?		scenario::Transportasi register::casual
+直走	zhí zǒu	jalan lurus	go straight		scenario::Transportasi register::casual
+左轉	zuǒ zhuǎn	belok kiri	turn left		scenario::Transportasi register::casual
+右轉	yòu zhuǎn	belok kanan	turn right		scenario::Transportasi register::casual
+紅綠燈	hóng lǜ dēng	lampu merah	traffic light		scenario::Transportasi register::casual
+斑馬線	bān mǎ xiàn	zebra cross	crosswalk		scenario::Transportasi register::casual
+附近	fù jìn	di dekat sini / sekitar sini	nearby		scenario::Transportasi register::casual
+遠	yuǎn	jauh	far		scenario::Transportasi register::casual
+近	jìn	dekat	near		scenario::Transportasi register::casual
+走路幾分鐘？	zǒu lù jǐ fēn zhōng?	jalan kaki berapa menit?	how many minutes walking?		scenario::Transportasi register::casual
+悠遊卡	Yōuyóu Kǎ	kartu EasyCard	EasyCard (transit card)	Tap-and-go card used on MRT, buses, convenience stores	scenario::Transportasi register::casual taiwan
+儲值	chǔ zhí	isi ulang (kartu)	top up (card)		scenario::Transportasi register::casual
+出口	chū kǒu	pintu keluar	exit		scenario::Transportasi register::casual
+入口	rù kǒu	pintu masuk	entrance		scenario::Transportasi register::casual
+換乘	huàn chéng	ganti jalur / transit	transfer (transit)		scenario::Transportasi register::casual
+幾號出口？	jǐ hào chū kǒu?	pintu keluar nomor berapa?	which exit number?		scenario::Transportasi register::casual
+到⋯⋯多少錢？	dào ... duō shǎo qián?	ke ... berapa?	how much to ...?		scenario::Transportasi register::casual
+到這個地址	dào zhè gè dì zhǐ	ke alamat ini	to this address		scenario::Transportasi register::casual
+在這裡停	zài zhè lǐ tíng	berhenti di sini	stop here		scenario::Transportasi register::casual
+開收據	kāi shōu jù	minta kwitansi	give me a receipt		scenario::Transportasi register::casual
+超商	chāo shāng	minimarket / convenience store	convenience store	7-11 and FamilyMart dominate Taiwan	scenario::Belanja register::casual taiwan
+收銀台	shōu yín tái	kasir	cashier counter		scenario::Belanja register::casual
+袋子	dài zi	kantong / tas plastik	bag		scenario::Belanja register::casual
+需要袋子嗎？	xū yào dài zi ma?	perlu kantong?	do you need a bag?	Plastic bags cost extra in Taiwan	scenario::Belanja register::casual taiwan
+不用了	bù yòng le	tidak perlu / tidak usah	no need		scenario::Belanja register::casual
+買	mǎi	beli	to buy		scenario::Belanja register::casual
+賣	mài	jual	to sell		scenario::Belanja register::casual
+多少錢？	duō shǎo qián?	berapa harganya?	how much?		scenario::Belanja register::casual
+太貴了	tài guì le	terlalu mahal	too expensive		scenario::Belanja register::casual
+便宜一點	pián yí yī diǎn	kurangi harganya sedikit	a bit cheaper		scenario::Belanja register::casual
+打折	dǎ zhé	diskon	discount		scenario::Belanja register::casual
+特價	tè jià	harga spesial / promo	special price / on sale		scenario::Belanja register::casual
+有沒有⋯⋯？	yǒu méi yǒu ...?	ada ... tidak?	do you have ...?		scenario::Belanja register::casual
+試穿	shì chuān	coba pakai (baju)	try on (clothes)		scenario::Belanja register::casual
+試用	shì yòng	coba pakai (produk)	try (a product)		scenario::Belanja register::casual
+尺寸	chǐ cùn	ukuran	size		scenario::Belanja register::casual
+顏色	yán sè	warna	color		scenario::Belanja register::casual
+有沒有別的顏色？	yǒu méi yǒu bié de yán sè?	ada warna lain?	any other colors?		scenario::Belanja register::casual
+全聯	Quánlián	PX Mart	PX Mart (supermarket)	Most popular supermarket chain in Taiwan	scenario::Belanja register::casual taiwan
+大潤發	Dàrùnfā	RT Mart	RT Mart (hypermarket)		scenario::Belanja register::casual
+購物車	gòu wù chē	troli belanja	shopping cart		scenario::Belanja register::casual
+結帳	jié zhàng	bayar / checkout	checkout / pay		scenario::Belanja register::casual
+會員卡	huì yuán kǎ	kartu member	membership card		scenario::Belanja register::casual
+有沒有會員卡？	yǒu méi yǒu huì yuán kǎ?	punya kartu member?	do you have a membership card?		scenario::Belanja register::casual
+刷卡	shuā kǎ	bayar kartu	pay by card		scenario::Belanja register::casual
+現金	xiàn jīn	uang tunai	cash		scenario::Belanja register::casual
+找零	zhǎo líng	kembalian	change (coins)		scenario::Belanja register::casual
+收據	shōu jù	kwitansi / struk	receipt		scenario::Belanja register::casual
+退換貨	tuì huàn huò	retur / tukar barang	return / exchange item		scenario::Belanja register::casual
+你好	nǐ hǎo	halo / hai	hello		scenario::Obrolan_Sosial register::casual
+你好嗎？	nǐ hǎo ma?	kamu baik-baik saja?	how are you?	Less common in casual speech; Taiwanese tend to say 你吃了嗎？ or 去哪裡？instead	scenario::Obrolan_Sosial register::formal taiwan
+吃了嗎？	chī le ma?	sudah makan?	have you eaten?	Common Taiwanese greeting, equivalent to 	scenario::Obrolan_Sosial register::casual taiwan
+去哪裡？	qù nǎ lǐ?	mau ke mana?	where are you going?	Casual greeting when passing someone	scenario::Obrolan_Sosial register::casual taiwan
+最近怎麼樣？	zuì jìn zěn me yàng?	belakangan ini bagaimana?	how have you been lately?		scenario::Obrolan_Sosial register::casual
+還好	hái hǎo	lumayan / biasa saja	not bad / okay		scenario::Obrolan_Sosial register::casual
+很好	hěn hǎo	sangat baik	very good		scenario::Obrolan_Sosial register::casual
+還行	hái xíng	masih oke / boleh lah	still okay / getting by		scenario::Obrolan_Sosial register::casual
+我叫⋯⋯	wǒ jiào...	nama saya ...	my name is ...		scenario::Obrolan_Sosial register::casual
+你叫什麼名字？	nǐ jiào shénme míngzì?	siapa namamu?	what is your name?		scenario::Obrolan_Sosial register::casual
+我是印尼人	wǒ shì Yìnní rén	saya orang Indonesia	I am Indonesian		scenario::Obrolan_Sosial register::casual
+你是哪裡人？	nǐ shì nǎlǐ rén?	kamu orang mana?	where are you from?		scenario::Obrolan_Sosial register::casual
+幸會	xìnghuì	senang berkenalan	nice to meet you		scenario::Obrolan_Sosial register::formal
+久仰	jiǔyǎng	sudah lama dengar nama Anda	I\		scenario::Obrolan_Sosial register::formal
+你的中文說得很好！	nǐ de zhōngwén shuō de hěn hǎo!	Mandarin kamu bagus sekali!	your Chinese is really good!		scenario::Obrolan_Sosial register::casual
+哪裡哪裡	nǎlǐ nǎlǐ	ah tidak juga / biasa saja (merendah)	oh not at all (humble reply)	Typical modest response to a compliment	scenario::Obrolan_Sosial register::casual taiwan
+你穿這個很好看	nǐ chuān zhège hěn hǎokàn	kamu kelihatan bagus pakai ini	you look great in this		scenario::Obrolan_Sosial register::casual
+好厲害喔！	hǎo lìhài o!	keren banget!	that\		scenario::Obrolan_Sosial register::casual
+你有空嗎？	nǐ yǒu kòng ma?	kamu ada waktu luang?	are you free?		scenario::Obrolan_Sosial register::casual
+我有空	wǒ yǒu kòng	saya ada waktu	I\		scenario::Obrolan_Sosial register::casual
+我沒空	wǒ méi kòng	saya tidak ada waktu	I\		scenario::Obrolan_Sosial register::casual
+要不要一起⋯⋯？	yào bú yào yīqǐ...?	mau tidak ... bersama?	want to ... together?		scenario::Obrolan_Sosial register::casual
+下次吧	xià cì ba	lain kali saja	maybe next time		scenario::Obrolan_Sosial register::casual
+沒問題	méi wèntí	tidak masalah / oke	no problem		scenario::Obrolan_Sosial register::casual
+等一下	děng yīxià	tunggu sebentar	wait a moment		scenario::Obrolan_Sosial register::casual
+對不起	duìbuqǐ	maaf (serius)	sorry (sincere)		scenario::Obrolan_Sosial register::casual
+不好意思	bù hǎo yìsi	permisi / maaf (ringan)	excuse me / sorry (light)	More common than 對不起 in daily Taiwan use	scenario::Obrolan_Sosial register::casual taiwan
+沒關係	méi guānxi	tidak apa-apa	it\		scenario::Obrolan_Sosial register::casual
+我不是故意的	wǒ bú shì gùyì de	saya tidak sengaja	I didn\		scenario::Obrolan_Sosial register::casual
+就是說	jiù shì shuō	maksudnya / yaitu	that is to say / I mean		scenario::Obrolan_Sosial register::casual tag::Taiwan
+對啊	duì a	iya betul	yeah, right / exactly		scenario::Obrolan_Sosial register::casual tag::Taiwan
+然後呢	rán hòu ne	terus? / lalu?	then? / and then?		scenario::Obrolan_Sosial register::casual tag::Taiwan
+欸	ēi	eh / hei	hey / eh		scenario::Obrolan_Sosial register::casual tag::Taiwan
+嘛	ma	(penekanan / ya sudah tahu)	(obviousness particle)		scenario::Obrolan_Sosial register::casual tag::Taiwan
+囉	lo	(penanda selesai / ya kan)	(completion / obvious particle)		scenario::Obrolan_Sosial register::casual tag::Taiwan
+你有LINE嗎？	nǐ yǒu LINE ma?	kamu punya LINE?	do you have LINE?	LINE is the dominant messaging app in Taiwan	scenario::Obrolan_Sosial register::casual taiwan
+加我好友	jiā wǒ hǎoyǒu	tambahkan aku sebagai teman	add me as a friend		scenario::Obrolan_Sosial register::casual
+傳訊息給我	chuán xùnxī gěi wǒ	kirimi saya pesan	send me a message		scenario::Obrolan_Sosial register::casual
+房間	fángjiān	kamar	room		scenario::Tempat_Tinggal register::casual
+套房	tàofáng	studio / kamar dengan kamar mandi dalam	studio apartment	Very common rental type in Taiwan cities	scenario::Tempat_Tinggal register::casual taiwan
+雅房	yǎfáng	kamar sewa (kamar mandi luar)	room with shared bathroom		scenario::Tempat_Tinggal register::casual
+房東	fángdōng	pemilik rumah / landlord	landlord		scenario::Tempat_Tinggal register::casual
+房客	fángkè	penyewa	tenant		scenario::Tempat_Tinggal register::casual
+租金	zūjīn	uang sewa	rent		scenario::Tempat_Tinggal register::casual
+押金	yājīn	deposit	security deposit		scenario::Tempat_Tinggal register::casual
+合約	héyuē	kontrak	contract / lease		scenario::Tempat_Tinggal register::formal
+幾個月？	jǐ gè yuè?	berapa bulan?	how many months?		scenario::Tempat_Tinggal register::casual
+包水電	bāo shuǐdiàn	sudah termasuk air dan listrik	utilities included	Common to ask 有沒有包水電？when renting	scenario::Tempat_Tinggal register::casual taiwan
+水費	shuǐfèi	tagihan air	water bill		scenario::Tempat_Tinggal register::casual
+電費	diànfèi	tagihan listrik	electricity bill		scenario::Tempat_Tinggal register::casual
+網路	wǎnglù	internet / wifi	internet	Taiwan uses 網路 where mainland uses 网络	scenario::Tempat_Tinggal register::casual taiwan
+有沒有含網路？	yǒu méiyǒu hán wǎnglù?	termasuk internet?	is internet included?		scenario::Tempat_Tinggal register::casual
+附近	fùjìn	sekitar sini / dekat sini	nearby		scenario::Tempat_Tinggal register::casual
+捷運站	jiéyùn zhàn	stasiun MRT	MRT station		scenario::Tempat_Tinggal register::casual
+走路幾分鐘到捷運？	zǒulù jǐ fēnzhōng dào jiéyùn?	jalan kaki berapa menit ke MRT?	how many minutes walk to MRT?		scenario::Tempat_Tinggal register::casual
+看房	kàn fáng	survei kamar / lihat rumah	to view a property		scenario::Tempat_Tinggal register::casual
+搬家	bānjiā	pindah rumah	to move house		scenario::Tempat_Tinggal register::casual
+鑰匙	yàoshi	kunci	key		scenario::Tempat_Tinggal register::casual
+壞掉了	huài diào le	rusak	broken		scenario::Tempat_Tinggal register::casual
+冷氣	lěngqì	AC	air conditioning	冷氣 is standard in Taiwan; mainland says 空調	scenario::Tempat_Tinggal register::casual taiwan
+熱水器	rèshuǐqì	water heater	water heater		scenario::Tempat_Tinggal register::casual
+洗衣機	xǐyījī	mesin cuci	washing machine		scenario::Tempat_Tinggal register::casual
+垃圾	lèsè	sampah	garbage / trash	In Taiwan, garbage trucks play music; you must bring trash to the truck	scenario::Tempat_Tinggal register::casual taiwan
+垃圾車	lèsè chē	truk sampah	garbage truck	Iconic Taiwan institution — plays Beethoven\	scenario::Tempat_Tinggal register::casual taiwan
+上班	shàngbān	masuk kerja / berangkat kerja	to go to work		scenario::Kerja_&_Belajar register::casual
+下班	xiàbān	pulang kerja / selesai kerja	to get off work		scenario::Kerja_&_Belajar register::casual
+加班	jiābān	lembur	overtime		scenario::Kerja_&_Belajar register::casual
+請假	qǐng jià	minta izin / cuti	to request leave		scenario::Kerja_&_Belajar register::casual
+會議	huìyì	rapat / meeting	meeting		scenario::Kerja_&_Belajar register::formal
+開會	kāihuì	rapat / mengadakan rapat	to have a meeting		scenario::Kerja_&_Belajar register::casual
+截止日期	jiézhǐ rìqī	deadline	deadline		scenario::Kerja_&_Belajar register::formal
+報告	bàogào	laporan / presentasi	report / presentation		scenario::Kerja_&_Belajar register::formal
+客戶	kèhù	klien / nasabah	client / customer		scenario::Kerja_&_Belajar register::formal
+同事	tóngshì	rekan kerja	colleague		scenario::Kerja_&_Belajar register::casual
+老闆	lǎobǎn	bos / atasan	boss		scenario::Kerja_&_Belajar register::casual
+主管	zhǔguǎn	supervisor / manager	supervisor / manager		scenario::Kerja_&_Belajar register::formal
+薪水	xīnshuǐ	gaji	salary		scenario::Kerja_&_Belajar register::casual
+我不太清楚	wǒ bú tài qīngchǔ	saya kurang paham	I\		scenario::Kerja_&_Belajar register::casual
+請問可以幫我⋯⋯嗎？	qǐng wèn kěyǐ bāng wǒ... ma?	permisi, bisa bantu saya ...?	could you help me ...?		scenario::Kerja_&_Belajar register::casual
+麻煩你了	máfan nǐ le	merepotkan kamu / terima kasih atas bantuannya	sorry to trouble you / thanks		scenario::Kerja_&_Belajar register::casual
+辛苦了	xīnkǔ le	terima kasih sudah kerja keras	you\	Said to acknowledge someone\	scenario::Kerja_&_Belajar register::casual taiwan
+做得很好	zuò de hěn hǎo	kerjamu bagus sekali	well done		scenario::Kerja_&_Belajar register::casual
+我趕時間	wǒ gǎn shíjiān	saya terburu-buru	I\		scenario::Kerja_&_Belajar register::casual
+先這樣	xiān zhèyàng	segini dulu / cukup dulu	that\	Common way to end a conversation or meeting informally	scenario::Kerja_&_Belajar register::casual taiwan
+學校	xuéxiào	sekolah	school		scenario::Kerja_&_Belajar register::casual
+大學	dàxué	universitas	university		scenario::Kerja_&_Belajar register::casual
+語言學校	yǔyán xuéxiào	sekolah bahasa	language school		scenario::Kerja_&_Belajar register::casual
+作業	zuòyè	PR / tugas	homework / assignment		scenario::Kerja_&_Belajar register::casual
+考試	kǎoshì	ujian	exam		scenario::Kerja_&_Belajar register::casual
+我聽不懂	wǒ tīng bù dǒng	saya tidak mengerti (yang didengar)	I don\		scenario::Kerja_&_Belajar register::casual
+可以再說一次嗎？	kěyǐ zài shuō yīcì ma?	bisa ulangi sekali lagi?	can you say that again?		scenario::Kerja_&_Belajar register::casual
+請說慢一點	qǐng shuō màn yīdiǎn	tolong bicara lebih pelan	please speak slower		scenario::Kerja_&_Belajar register::casual
+頭痛	tóutòng	sakit kepala	headache		scenario::Kesehatan register::casual
+肚子痛	dùzi tòng	sakit perut	stomachache		scenario::Kesehatan register::casual
+喉嚨痛	hóulóng tòng	sakit tenggorokan	sore throat		scenario::Kesehatan register::casual
+發燒	fāshāo	demam	fever		scenario::Kesehatan register::casual
+流鼻水	liú bíshuǐ	pilek / meler	runny nose		scenario::Kesehatan register::casual
+咳嗽	késòu	batuk	cough		scenario::Kesehatan register::casual
+感冒	gǎnmào	flu / pilek	cold / flu		scenario::Kesehatan register::casual
+過敏	guòmǐn	alergi	allergy		scenario::Kesehatan register::casual
+噁心	ěxīn	mual	nausea		scenario::Kesehatan register::casual
+拉肚子	lā dùzi	diare / mencret	diarrhea		scenario::Kesehatan register::casual
+我不舒服	wǒ bù shūfú	saya tidak enak badan	I feel unwell		scenario::Kesehatan register::casual
+很嚴重嗎？	hěn yánzhòng ma?	serius / parah?	is it serious?		scenario::Kesehatan register::casual
+診所	zhěnsuǒ	klinik	clinic	Small private clinics are everywhere in Taiwan; cheaper than hospitals for minor illness	scenario::Kesehatan register::casual taiwan
+醫院	yīyuàn	rumah sakit	hospital		scenario::Kesehatan register::casual
+藥局	yàojú	apotek	pharmacy		scenario::Kesehatan register::casual
+看醫生	kàn yīshēng	periksa ke dokter	see a doctor		scenario::Kesehatan register::casual
+掛號	guàhào	daftar / registrasi (di klinik)	register at clinic	In Taiwan clinics you must 掛號 (register) first; often done online via app	scenario::Kesehatan register::casual taiwan
+健保卡	jiànbǎo kǎ	kartu asuransi kesehatan	National Health Insurance card	Taiwan NHI card — essential for clinic visits; covers most treatments cheaply	scenario::Kesehatan register::casual taiwan
+藥	yào	obat	medicine		scenario::Kesehatan register::casual
+止痛藥	zhǐtòng yào	obat pereda nyeri	painkiller		scenario::Kesehatan register::casual
+退燒藥	tuìshāo yào	obat penurun demam	fever reducer		scenario::Kesehatan register::casual
+一天幾次？	yītiān jǐ cì?	sehari berapa kali?	how many times a day?		scenario::Kesehatan register::casual
+飯前	fàn qián	sebelum makan	before meals		scenario::Kesehatan register::casual
+飯後	fàn hòu	setelah makan	after meals		scenario::Kesehatan register::casual
+多休息	duō xiūxi	banyak istirahat	get plenty of rest		scenario::Kesehatan register::casual
+多喝水	duō hē shuǐ	banyak minum air	drink plenty of water		scenario::Kesehatan register::casual
+錢	qián	uang	money		scenario::Uang_&_Bank register::casual
+台幣	Táibì	Dolar Taiwan (TWD)	New Taiwan Dollar		scenario::Uang_&_Bank register::casual
+銀行	yínháng	bank	bank		scenario::Uang_&_Bank register::casual
+提款機	tíkuǎnjī	ATM	ATM	Also called 自動提款機 (zìdòng tíkuǎnjī)	scenario::Uang_&_Bank register::casual taiwan
+存款	cúnkuǎn	menabung / setoran	deposit / savings		scenario::Uang_&_Bank register::casual
+提款	tíkuǎn	tarik tunai	withdraw cash		scenario::Uang_&_Bank register::casual
+轉帳	zhuǎnzhàng	transfer uang	bank transfer		scenario::Uang_&_Bank register::casual
+匯款	huìkuǎn	kirim uang / remittance	remittance / send money		scenario::Uang_&_Bank register::casual
+帳戶	zhànghù	rekening bank	bank account		scenario::Uang_&_Bank register::casual
+帳號	zhànghào	nomor rekening	account number		scenario::Uang_&_Bank register::casual
+手續費	shǒuxù fèi	biaya administrasi	transaction / processing fee		scenario::Uang_&_Bank register::casual
+匯率	huìlǜ	nilai tukar	exchange rate		scenario::Uang_&_Bank register::casual
+換錢	huàn qián	tukar uang	change money / exchange currency		scenario::Uang_&_Bank register::casual
+密碼	mìmǎ	PIN / kata sandi	PIN / password		scenario::Uang_&_Bank register::casual
+餘額	yú\	saldo	balance		scenario::Uang_&_Bank register::casual
+一起付	yīqǐ fù	bayar bareng	pay together		scenario::Uang_&_Bank register::casual
+各付各的	gè fù gè de	bayar masing-masing / dutch	split the bill / go Dutch		scenario::Uang_&_Bank register::casual
+我請客	wǒ qǐng kè	saya yang traktir	it\		scenario::Uang_&_Bank register::casual
+你上次請，這次我來	nǐ shàng cì qǐng, zhè cì wǒ lái	kemarin kamu yang traktir, kali ini giliran saya	you treated last time, this time it\		scenario::Uang_&_Bank register::casual
+可以掃碼付款嗎？	kěyǐ sǎo mǎ fùkuǎn ma?	bisa bayar scan QR code?	can I pay by QR code scan?	LINE Pay and 街口支付 (Jkopay) are common QR payment apps in Taiwan	scenario::Uang_&_Bank register::casual taiwan
+街口支付	Jiēkǒu Zhīfù	Jkopay	Jkopay (payment app)	Taiwan-specific QR payment app, very popular	scenario::Uang_&_Bank register::casual taiwan
+打電話	dǎ diànhuà	telepon / menelepon	to make a phone call		scenario::Telepon_&_Digital register::casual
+接電話	jiē diànhuà	angkat telepon	to answer the phone		scenario::Telepon_&_Digital register::casual
+掛電話	guà diànhuà	tutup telepon	to hang up		scenario::Telepon_&_Digital register::casual
+喂	wèi	halo (di telepon)	hello (on phone)	Always used when answering phone calls in Taiwan	scenario::Telepon_&_Digital register::casual taiwan
+你現在方便說話嗎？	nǐ xiànzài fāngbiàn shuōhuà ma?	apakah sekarang kamu bisa bicara?	is it a good time to talk?		scenario::Telepon_&_Digital register::casual
+我等一下回你	wǒ děng yīxià huí nǐ	saya hubungi kamu nanti	I\		scenario::Telepon_&_Digital register::casual
+訊號不好	xùnhào bù hǎo	sinyal jelek	bad signal		scenario::Telepon_&_Digital register::casual
+聽不清楚	tīng bù qīngchǔ	tidak terdengar jelas	can\		scenario::Telepon_&_Digital register::casual
+LINE	LINE	LINE (aplikasi chat)	LINE (messaging app)	Dominant messaging app in Taiwan, used for everything	scenario::Telepon_&_Digital register::casual taiwan
+傳訊息	chuán xùnxī	kirim pesan	to send a message		scenario::Telepon_&_Digital register::casual
+已讀	yǐ dú	sudah dibaca (centang biru)	read (message status)	已讀不回 (already read, no reply) is a very Taiwanese concept / complaint	scenario::Telepon_&_Digital register::casual taiwan
+已讀不回	yǐ dú bù huí	dibaca tapi tidak dibalas (ghosting)	read and ignored / left on read		scenario::Telepon_&_Digital register::casual tag::Taiwan
+貼圖	tiē tú	stiker (di LINE)	LINE sticker	LINE stickers are huge in Taiwan culture	scenario::Telepon_&_Digital register::casual taiwan
+群組	qúnzǔ	grup chat	group chat		scenario::Telepon_&_Digital register::casual
+語音訊息	yǔyīn xùnxī	pesan suara	voice message		scenario::Telepon_&_Digital register::casual
+視訊通話	shìxùn tōnghuà	video call	video call		scenario::Telepon_&_Digital register::casual
+哈哈	hāhā	haha	haha (laugh)		scenario::Telepon_&_Digital register::casual
+好喔	hǎo o	oke deh	okay then / sure		scenario::Telepon_&_Digital register::casual tag::Taiwan
+了解	liǎojiě	mengerti / siap	understood / got it		scenario::Telepon_&_Digital register::casual
+收到	shōu dào	diterima / siap	received / roger		scenario::Telepon_&_Digital register::casual
+等我一下	děng wǒ yīxià	tunggu sebentar	wait for me a sec		scenario::Telepon_&_Digital register::casual
+在嗎？	zài ma?	ada di sana?	are you there?		scenario::Telepon_&_Digital register::casual
+我到了	wǒ dào le	saya sudah sampai	I\		scenario::Telepon_&_Digital register::casual
+快到了	kuài dào le	sebentar lagi sampai	almost there		scenario::Telepon_&_Digital register::casual
+晚點說	wǎn diǎn shuō	nanti bicara lagi	talk later		scenario::Telepon_&_Digital register::casual
+掰掰	bāibāi	bye bye / dadah	bye bye	From English 	scenario::Telepon_&_Digital register::casual taiwan
+救命！	jiùmìng!	tolong! / minta bantuan!	help! (save my life)		scenario::Darurat_&_Survival register::casual
+不好意思，我需要幫助	bù hǎo yìsi, wǒ xūyào bāngzhù	permisi, saya butuh bantuan	excuse me, I need help		scenario::Darurat_&_Survival register::casual
+警察	jǐngchá	polisi	police		scenario::Darurat_&_Survival register::casual
+救護車	jiùhù chē	ambulans	ambulance		scenario::Darurat_&_Survival register::casual
+消防車	xiāofáng chē	mobil pemadam	fire truck		scenario::Darurat_&_Survival register::casual
+叫警察	jiào jǐngchá	panggil polisi	call the police		scenario::Darurat_&_Survival register::casual
+打119	dǎ yāo yāo jiǔ	telepon 119 (ambulans/pemadam)	call 119 (ambulance/fire)	119 is for ambulance and fire in Taiwan. 110 is police.	scenario::Darurat_&_Survival register::casual taiwan
+打110	dǎ yāo yāo líng	telepon 110 (polisi)	call 110 (police)	110 is the police emergency number in Taiwan	scenario::Darurat_&_Survival register::casual taiwan
+有人受傷	yǒu rén shòushāng	ada orang yang terluka	someone is injured		scenario::Darurat_&_Survival register::casual
+快來！	kuài lái!	cepat datang!	come quickly!		scenario::Darurat_&_Survival register::casual
+我迷路了	wǒ mílù le	saya tersesat	I am lost		scenario::Darurat_&_Survival register::casual
+我的手機不見了	wǒ de shǒujī bú jiàn le	HP saya hilang	my phone is missing		scenario::Darurat_&_Survival register::casual
+錢包不見了	qiánbāo bú jiàn le	dompet saya hilang	my wallet is missing		scenario::Darurat_&_Survival register::casual
+護照	hùzhào	paspor	passport		scenario::Darurat_&_Survival register::casual
+我的護照不見了	wǒ de hùzhào bú jiàn le	paspor saya hilang	my passport is lost		scenario::Darurat_&_Survival register::casual
+被偷了	bèi tōu le	dicuri	was stolen		scenario::Darurat_&_Survival register::casual
+發生事故	fāshēng shìgù	terjadi kecelakaan	an accident occurred		scenario::Darurat_&_Survival register::casual
+我不知道地址	wǒ bù zhīdào dìzhǐ	saya tidak tahu alamatnya	I don\		scenario::Darurat_&_Survival register::casual
+台灣的緊急電話	Táiwān de jǐnjí diànhuà	nomor darurat Taiwan	Taiwan emergency numbers	110=Police, 119=Ambulance/Fire, 1999=Non-emergency city hotline	scenario::Darurat_&_Survival register::formal taiwan
+有沒有人說英文？	yǒu méiyǒu rén shuō Yīngwén?	ada yang bisa bahasa Inggris?	does anyone speak English?		scenario::Darurat_&_Survival register::casual
+我需要翻譯	wǒ xūyào fānyì	saya butuh penerjemah	I need a translator		scenario::Darurat_&_Survival register::casual
+請幫我打電話給⋯⋯	qǐng bāng wǒ dǎ diànhuà gěi...	tolong bantu saya telepon ...	please help me call ...		scenario::Darurat_&_Survival register::casual
+我在哪裡？	wǒ zài nǎlǐ?	saya ada di mana?	where am I?		scenario::Darurat_&_Survival register::casual
+最近的	zuì jìn de	yang paling dekat	the nearest		scenario::Tanya_Lokasi register::casual
+附近有沒有⋯⋯？	fùjìn yǒu méiyǒu...?	di dekat sini ada ... tidak?	is there a ... nearby?		scenario::Tanya_Lokasi register::casual
+最近的全家在哪裡？	zuì jìn de Quánjiā zài nǎlǐ?	FamilyMart terdekat ada di mana?	where is the nearest FamilyMart?		scenario::Tanya_Lokasi register::casual
+最近的超商在哪裡？	zuì jìn de chāoshāng zài nǎlǐ?	minimarket terdekat di mana?	where is the nearest convenience store?		scenario::Tanya_Lokasi register::casual
+最近的提款機在哪裡？	zuì jìn de tíkuǎnjī zài nǎlǐ?	ATM terdekat di mana?	where is the nearest ATM?		scenario::Tanya_Lokasi register::casual
+最近的捷運站在哪裡？	zuì jìn de jiéyùn zhàn zài nǎlǐ?	stasiun MRT terdekat di mana?	where is the nearest MRT station?		scenario::Tanya_Lokasi register::casual
+最近的藥局在哪裡？	zuì jìn de yàojú zài nǎlǐ?	apotek terdekat di mana?	where is the nearest pharmacy?		scenario::Tanya_Lokasi register::casual
+最近的廁所在哪裡？	zuì jìn de cèsuǒ zài nǎlǐ?	toilet terdekat di mana?	where is the nearest toilet?		scenario::Tanya_Lokasi register::casual
+最近的停車場在哪裡？	zuì jìn de tíngchēchǎng zài nǎlǐ?	parkir terdekat di mana?	where is the nearest parking?		scenario::Tanya_Lokasi register::casual
+這附近有餐廳嗎？	zhè fùjìn yǒu cāntīng ma?	di sekitar sini ada restoran?	is there a restaurant around here?		scenario::Tanya_Lokasi register::casual
+這附近有咖啡廳嗎？	zhè fùjìn yǒu kāfēitīng ma?	di sekitar sini ada kafe?	is there a café around here?		scenario::Tanya_Lokasi register::casual
+就在前面	jiù zài qiánmiàn	tepat di depan	right ahead		scenario::Tanya_Lokasi register::casual
+就在旁邊	jiù zài pángbiān	tepat di sebelah	right next to it		scenario::Tanya_Lokasi register::casual
+就在對面	jiù zài duìmiàn	tepat di seberang	right across		scenario::Tanya_Lokasi register::casual
+在⋯⋯旁邊	zài ... pángbiān	di sebelah ...	next to ...		scenario::Tanya_Lokasi register::casual
+在⋯⋯對面	zài ... duìmiàn	di seberang ...	across from ...		scenario::Tanya_Lokasi register::casual
+在⋯⋯樓上	zài ... lóu shàng	di lantai atas ...	upstairs / on floor ...		scenario::Tanya_Lokasi register::casual
+在⋯⋯樓下	zài ... lóu xià	di lantai bawah	downstairs		scenario::Tanya_Lokasi register::casual
+走路大概⋯⋯分鐘	zǒulù dàgài ... fēnzhōng	jalan kaki kira-kira ... menit	about ... minutes walk		scenario::Tanya_Lokasi register::casual
+很近，走路就到了	hěn jìn, zǒulù jiù dào le	sangat dekat, jalan kaki saja sudah sampai	very close, just walk there		scenario::Tanya_Lokasi register::casual
+有點遠，你最好搭車	yǒudiǎn yuǎn, nǐ zuìhǎo dāchē	agak jauh, sebaiknya naik kendaraan	a bit far, better take transport		scenario::Tanya_Lokasi register::casual
+我不太清楚	wǒ bú tài qīngchǔ	saya kurang tahu	I\		scenario::Tanya_Lokasi register::casual
+你可以用Google地圖找	nǐ kěyǐ yòng Google Dìtú zhǎo	kamu bisa cari pakai Google Maps	you can search on Google Maps	Very common answer — Google Maps works great in Taiwan	scenario::Tanya_Lokasi register::casual taiwan
+路口	lùkǒu	persimpangan jalan	intersection		scenario::Tanya_Lokasi register::casual
+巷子	xiàngzi	gang / lorong	alley / lane	Taiwan addresses include 巷 (lane) and 弄 (alley) numbers	scenario::Tanya_Lokasi register::casual taiwan
+巷	xiàng	gang (dalam alamat)	lane (in address)		scenario::Tanya_Lokasi register::casual
+弄	nòng	gang kecil (dalam alamat)	alley (in address)		scenario::Tanya_Lokasi register::casual
+號	hào	nomor (dalam alamat)	number (in address)		scenario::Tanya_Lokasi register::casual
+樓	lóu	lantai	floor / storey		scenario::Tanya_Lokasi register::casual
+一樓	yī lóu	lantai 1 (lantai dasar)	ground floor	Taiwan uses 1F for ground floor, same as US system	scenario::Tanya_Lokasi register::casual taiwan
+地下室	dìxiàshì	basement	basement		scenario::Tanya_Lokasi register::casual
+電梯	diàntī	lift / elevator	elevator		scenario::Tanya_Lokasi register::casual
+樓梯	lóutī	tangga	stairs		scenario::Tanya_Lokasi register::casual
+地址	dìzhǐ	alamat	address		scenario::Tanya_Lokasi register::casual
+請問這個地址怎麼走？	qǐng wèn zhège dìzhǐ zěnme zǒu?	permisi, cara ke alamat ini bagaimana?	excuse me, how do I get to this address?		scenario::Tanya_Lokasi register::casual
+你可以帶我去嗎？	nǐ kěyǐ dài wǒ qù ma?	bisakah kamu antar saya ke sana?	can you take me there?		scenario::Tanya_Lokasi register::casual
+多少錢？	duōshǎo qián?	berapa harganya?	how much?		scenario::Tawar_Menawar register::casual
+太貴了	tài guì le	terlalu mahal	too expensive		scenario::Tawar_Menawar register::casual
+可以便宜一點嗎？	kěyǐ piányí yīdiǎn ma?	bisa lebih murah sedikit?	can you make it cheaper?		scenario::Tawar_Menawar register::casual
+算我便宜一點	suàn wǒ piányí yīdiǎn	hitung lebih murah buat saya	give me a better price		scenario::Tawar_Menawar register::casual
+打折嗎？	dǎzhé ma?	ada diskon?	any discount?		scenario::Tawar_Menawar register::casual
+最低多少？	zuì dī duōshǎo?	paling murah berapa?	what\		scenario::Tawar_Menawar register::casual
+⋯⋯元可以嗎？	... yuán kěyǐ ma?	... dolar boleh?	can you do ... dollars?		scenario::Tawar_Menawar register::casual
+我出⋯⋯元	wǒ chū ... yuán	saya tawar ... dolar	I\		scenario::Tawar_Menawar register::casual
+這個價錢我不能再低了	zhège jiàqián wǒ bù néng zài dī le	harga ini sudah tidak bisa lebih murah lagi	this is the lowest I can go		scenario::Tawar_Menawar register::casual
+好，成交！	hǎo, chéngjīao!	oke, deal!	okay, deal!		scenario::Tawar_Menawar register::casual
+算了，不買了	suànle, bù mǎi le	sudahlah, tidak jadi beli	forget it, I won\	Pretending to walk away is a classic bargaining move at markets	scenario::Tawar_Menawar register::casual taiwan
+我再想想	wǒ zài xiǎngxiǎng	saya pikir-pikir dulu	let me think about it		scenario::Tawar_Menawar register::casual
+我去別家看看	wǒ qù bié jiā kànkàn	saya lihat-lihat ke toko lain dulu	I\		scenario::Tawar_Menawar register::casual
+定價	dìngjià	harga tetap / harga pasaran	fixed price / list price		scenario::Tawar_Menawar register::casual
+開價	kāijià	harga awal (sebelum tawar)	asking price		scenario::Tawar_Menawar register::casual
+殺價	shājià	tawar harga / negosiasi harga	to bargain / haggle	殺價 is normal at night markets and traditional markets, not at chain stores	scenario::Tawar_Menawar register::casual taiwan
+不二價	bù èr jià	harga mati / tidak bisa ditawar	fixed price, no bargaining	Signs saying 不二價 mean the price is final — don\	scenario::Tawar_Menawar register::casual taiwan
+有標價嗎？	yǒu biāojià ma?	ada label harganya?	is there a price tag?		scenario::Tawar_Menawar register::casual
+含稅嗎？	hán shuì ma?	sudah termasuk pajak?	does that include tax?		scenario::Tawar_Menawar register::casual
+整數	zhěngshù	angka bulat	round number		scenario::Tawar_Menawar register::casual
+算整數	suàn zhěngshù	dibulatkan saja	just round it up/down	e.g. 195元 → 算整數 → 200元 or 190元	scenario::Tawar_Menawar register::casual taiwan
+買多一點可以打折嗎？	mǎi duō yīdiǎn kěyǐ dǎzhé ma?	kalau beli lebih banyak bisa diskon?	discount if I buy more?		scenario::Tawar_Menawar register::casual
+買兩個算多少？	mǎi liǎng gè suàn duōshǎo?	kalau beli dua harganya berapa?	how much for two?		scenario::Tawar_Menawar register::casual
+買三送一	mǎi sān sòng yī	beli tiga gratis satu	buy 3 get 1 free		scenario::Tawar_Menawar register::casual
+一起算	yīqǐ suàn	dihitung sekaligus / bundle	count it all together		scenario::Tawar_Menawar register::casual
+有沒有瑕疵？	yǒu méiyǒu xiácī?	ada cacat / rusak tidak?	any defects?		scenario::Tawar_Menawar register::casual
+這個有一點壞掉	zhège yǒu yīdiǎn huài diào	yang ini ada sedikit cacat	this one is slightly damaged		scenario::Tawar_Menawar register::casual
+因為有瑕疵，可以再便宜嗎？	yīnwèi yǒu xiácī, kěyǐ zài piányí ma?	karena ada cacat, bisa lebih murah lagi?	because of the defect, can you lower the price?		scenario::Tawar_Menawar register::casual
+有沒有新的？	yǒu méiyǒu xīn de?	ada yang baru?	do you have a new one?		scenario::Tawar_Menawar register::casual
+這是最後一個了	zhè shì zuìhòu yī gè le	ini yang terakhir	this is the last one		scenario::Tawar_Menawar register::casual
+夜市	yèshì	pasar malam (boleh tawar)	night market (bargaining OK)	Bargaining is common and expected at night markets	scenario::Tawar_Menawar register::casual taiwan
+傳統市場	chuántǒng shìchǎng	pasar tradisional	traditional market	Wet markets / morning markets — bargaining is acceptable	scenario::Tawar_Menawar register::casual taiwan
+連鎖店	liánsuǒ diàn	toko jaringan / chain store	chain store	Chain stores like 全聯, 7-11 have fixed prices — no bargaining	scenario::Tawar_Menawar register::casual taiwan

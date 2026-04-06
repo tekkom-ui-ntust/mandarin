@@ -1,0 +1,31 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Mandarin Taiwan
+#columns:Hanzi	Pinyin	Indonesian	English	Taiwan Note	Tags
+打電話	dǎ diànhuà	telepon / menelepon	to make a phone call		scenario::Telepon_&_Digital register::casual
+接電話	jiē diànhuà	angkat telepon	to answer the phone		scenario::Telepon_&_Digital register::casual
+掛電話	guà diànhuà	tutup telepon	to hang up		scenario::Telepon_&_Digital register::casual
+喂	wèi	halo (di telepon)	hello (on phone)	Always used when answering phone calls in Taiwan	scenario::Telepon_&_Digital register::casual taiwan
+你現在方便說話嗎？	nǐ xiànzài fāngbiàn shuōhuà ma?	apakah sekarang kamu bisa bicara?	is it a good time to talk?		scenario::Telepon_&_Digital register::casual
+我等一下回你	wǒ děng yīxià huí nǐ	saya hubungi kamu nanti	I\		scenario::Telepon_&_Digital register::casual
+訊號不好	xùnhào bù hǎo	sinyal jelek	bad signal		scenario::Telepon_&_Digital register::casual
+聽不清楚	tīng bù qīngchǔ	tidak terdengar jelas	can\		scenario::Telepon_&_Digital register::casual
+LINE	LINE	LINE (aplikasi chat)	LINE (messaging app)	Dominant messaging app in Taiwan, used for everything	scenario::Telepon_&_Digital register::casual taiwan
+傳訊息	chuán xùnxī	kirim pesan	to send a message		scenario::Telepon_&_Digital register::casual
+已讀	yǐ dú	sudah dibaca (centang biru)	read (message status)	已讀不回 (already read, no reply) is a very Taiwanese concept / complaint	scenario::Telepon_&_Digital register::casual taiwan
+已讀不回	yǐ dú bù huí	dibaca tapi tidak dibalas (ghosting)	read and ignored / left on read		scenario::Telepon_&_Digital register::casual tag::Taiwan
+貼圖	tiē tú	stiker (di LINE)	LINE sticker	LINE stickers are huge in Taiwan culture	scenario::Telepon_&_Digital register::casual taiwan
+群組	qúnzǔ	grup chat	group chat		scenario::Telepon_&_Digital register::casual
+語音訊息	yǔyīn xùnxī	pesan suara	voice message		scenario::Telepon_&_Digital register::casual
+視訊通話	shìxùn tōnghuà	video call	video call		scenario::Telepon_&_Digital register::casual
+哈哈	hāhā	haha	haha (laugh)		scenario::Telepon_&_Digital register::casual
+好喔	hǎo o	oke deh	okay then / sure		scenario::Telepon_&_Digital register::casual tag::Taiwan
+了解	liǎojiě	mengerti / siap	understood / got it		scenario::Telepon_&_Digital register::casual
+收到	shōu dào	diterima / siap	received / roger		scenario::Telepon_&_Digital register::casual
+等我一下	děng wǒ yīxià	tunggu sebentar	wait for me a sec		scenario::Telepon_&_Digital register::casual
+在嗎？	zài ma?	ada di sana?	are you there?		scenario::Telepon_&_Digital register::casual
+我到了	wǒ dào le	saya sudah sampai	I\		scenario::Telepon_&_Digital register::casual
+快到了	kuài dào le	sebentar lagi sampai	almost there		scenario::Telepon_&_Digital register::casual
+晚點說	wǎn diǎn shuō	nanti bicara lagi	talk later		scenario::Telepon_&_Digital register::casual
+掰掰	bāibāi	bye bye / dadah	bye bye	From English 	scenario::Telepon_&_Digital register::casual taiwan

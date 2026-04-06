@@ -1,0 +1,55 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Mandarin Taiwan
+#columns:Hanzi	Pinyin	Indonesian	English	Taiwan Note	Tags
+麥當勞	Màidāngláo	McDonald\	McDonald\		scenario::Tempat_&_Merek register::casual tag::Places
+肯德基	Kěndéjī	KFC	KFC		scenario::Tempat_&_Merek register::casual tag::Places
+摩斯漢堡	Mósī Hànbǎo	MOS Burger	MOS Burger		scenario::Tempat_&_Merek register::casual tag::Places
+漢堡王	Hànbǎo Wáng	Burger King	Burger King		scenario::Tempat_&_Merek register::casual tag::Places
+必勝客	Bìshèngkè	Pizza Hut	Pizza Hut		scenario::Tempat_&_Merek register::casual tag::Places
+鼎泰豐	Dǐng Tài Fēng	Din Tai Fung	Din Tai Fung		scenario::Tempat_&_Merek register::casual tag::Places
+統一超商	Tǒngyī Chāoshāng	7-Eleven Taiwan	7-Eleven Taiwan	Most 7-Elevens in Taiwan are run by Uni-President	scenario::Tempat_&_Merek register::casual tag::Places taiwan
+全家	Quánjiā	FamilyMart	FamilyMart		scenario::Tempat_&_Merek register::casual tag::Places
+萊爾富	Lái\	Hi-Life	Hi-Life		scenario::Tempat_&_Merek register::casual tag::Places
+全聯	Quánlián	PX Mart	PX Mart	Most popular supermarket in Taiwan	scenario::Tempat_&_Merek register::casual tag::Places taiwan
+大潤發	Dàrùnfā	RT Mart	RT Mart		scenario::Tempat_&_Merek register::casual tag::Places
+家樂福	Jiālèfú	Carrefour	Carrefour		scenario::Tempat_&_Merek register::casual tag::Places
+好市多	Hǎoshìduō	Costco	Costco		scenario::Tempat_&_Merek register::casual tag::Places
+星巴克	Xīngbākè	Starbucks	Starbucks		scenario::Tempat_&_Merek register::casual tag::Places
+路易莎	Lùyìshā	Louisa Coffee	Louisa Coffee	Popular local coffee chain, cheaper than Starbucks	scenario::Tempat_&_Merek register::casual tag::Places taiwan
+85度C	Bāwǔ Dù C	85°C Bakery Cafe	85°C Bakery Cafe		scenario::Tempat_&_Merek register::casual tag::Places
+50嵐	Wǔshí Lán	50 Lan (bubble tea)	50 Lan		scenario::Tempat_&_Merek register::casual tag::Places
+康是美	Kāngshìměi	Cosmed	Cosmed	Pharmacy + beauty store chain	scenario::Tempat_&_Merek register::casual tag::Places taiwan
+屈臣氏	Qūchénshì	Watson\	Watson\		scenario::Tempat_&_Merek register::casual tag::Places
+寶雅	Bǎoyǎ	POYA	POYA beauty store		scenario::Tempat_&_Merek register::casual tag::Places
+台灣銀行	Táiwān Yínháng	Bank of Taiwan	Bank of Taiwan		scenario::Tempat_&_Merek register::formal tag::Places
+中國信託	Zhōngguó Xìntuō	CTBC Bank	CTBC Bank		scenario::Tempat_&_Merek register::formal tag::Places
+玉山銀行	Yùshān Yínháng	E.Sun Bank	E.Sun Bank		scenario::Tempat_&_Merek register::formal tag::Places
+郵局	yóujú	kantor pos (juga ada layanan bank)	post office (with banking)	Chunghwa Post also offers savings accounts	scenario::Tempat_&_Merek register::casual tag::Places taiwan
+台北	Táiběi	Taipei	Taipei		scenario::Tempat_&_Merek register::casual tag::Places
+新北	Xīnběi	New Taipei	New Taipei City		scenario::Tempat_&_Merek register::casual tag::Places
+桃園	Táoyuán	Taoyuan	Taoyuan		scenario::Tempat_&_Merek register::casual tag::Places
+台中	Táizhōng	Taichung	Taichung		scenario::Tempat_&_Merek register::casual tag::Places
+台南	Táinán	Tainan	Tainan		scenario::Tempat_&_Merek register::casual tag::Places
+高雄	Gāoxióng	Kaohsiung	Kaohsiung		scenario::Tempat_&_Merek register::casual tag::Places
+花蓮	Huālián	Hualien	Hualien		scenario::Tempat_&_Merek register::casual tag::Places
+台東	Táidōng	Taitung	Taitung		scenario::Tempat_&_Merek register::casual tag::Places
+宜蘭	Yílán	Yilan	Yilan		scenario::Tempat_&_Merek register::casual tag::Places
+基隆	Jīlóng	Keelung	Keelung		scenario::Tempat_&_Merek register::casual tag::Places
+新竹	Xīnzhú	Hsinchu	Hsinchu		scenario::Tempat_&_Merek register::casual tag::Places
+澎湖	Pénghú	Penghu (Pescadores)	Penghu		scenario::Tempat_&_Merek register::casual tag::Places
+台北101	Táiběi Yī-líng-yī	Taipei 101	Taipei 101		scenario::Tempat_&_Merek register::casual tag::Places
+故宮博物院	Gùgōng Bówùyuàn	Museum Istana Nasional	National Palace Museum		scenario::Tempat_&_Merek register::casual tag::Places
+龍山寺	Lóngshān Sì	Kuil Longshan	Longshan Temple		scenario::Tempat_&_Merek register::casual tag::Places
+九份	Jiǔfèn	Jiufen	Jiufen		scenario::Tempat_&_Merek register::casual tag::Places
+日月潭	Rìyuè Tán	Danau Sun Moon	Sun Moon Lake		scenario::Tempat_&_Merek register::casual tag::Places
+太魯閣	Tàilǔgé	Taroko Gorge	Taroko Gorge		scenario::Tempat_&_Merek register::casual tag::Places
+阿里山	Ālǐshān	Alishan	Alishan		scenario::Tempat_&_Merek register::casual tag::Places
+墾丁	Kěndīng	Kenting	Kenting		scenario::Tempat_&_Merek register::casual tag::Places
+士林夜市	Shìlín Yèshì	Pasar Malam Shilin	Shilin Night Market		scenario::Tempat_&_Merek register::casual tag::Places
+饒河夜市	Ráohé Yèshì	Pasar Malam Raohe	Raohe Night Market		scenario::Tempat_&_Merek register::casual tag::Places
+逢甲夜市	Féngjiǎ Yèshì	Pasar Malam Fengjia (Taichung)	Fengjia Night Market		scenario::Tempat_&_Merek register::casual tag::Places
+六合夜市	Liùhé Yèshì	Pasar Malam Liuhe (Kaohsiung)	Liuhe Night Market		scenario::Tempat_&_Merek register::casual tag::Places
+台北車站	Táiběi Chēzhàn	Stasiun Taipei	Taipei Main Station		scenario::Tempat_&_Merek register::casual tag::Places
+桃園機場	Táoyuán Jīchǎng	Bandara Taoyuan	Taoyuan Airport		scenario::Tempat_&_Merek register::casual tag::Places

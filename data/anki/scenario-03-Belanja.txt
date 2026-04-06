@@ -1,0 +1,34 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Mandarin Taiwan
+#columns:Hanzi	Pinyin	Indonesian	English	Taiwan Note	Tags
+超商	chāo shāng	minimarket / convenience store	convenience store	7-11 and FamilyMart dominate Taiwan	scenario::Belanja register::casual taiwan
+收銀台	shōu yín tái	kasir	cashier counter		scenario::Belanja register::casual
+袋子	dài zi	kantong / tas plastik	bag		scenario::Belanja register::casual
+需要袋子嗎？	xū yào dài zi ma?	perlu kantong?	do you need a bag?	Plastic bags cost extra in Taiwan	scenario::Belanja register::casual taiwan
+不用了	bù yòng le	tidak perlu / tidak usah	no need		scenario::Belanja register::casual
+買	mǎi	beli	to buy		scenario::Belanja register::casual
+賣	mài	jual	to sell		scenario::Belanja register::casual
+多少錢？	duō shǎo qián?	berapa harganya?	how much?		scenario::Belanja register::casual
+太貴了	tài guì le	terlalu mahal	too expensive		scenario::Belanja register::casual
+便宜一點	pián yí yī diǎn	kurangi harganya sedikit	a bit cheaper		scenario::Belanja register::casual
+打折	dǎ zhé	diskon	discount		scenario::Belanja register::casual
+特價	tè jià	harga spesial / promo	special price / on sale		scenario::Belanja register::casual
+有沒有⋯⋯？	yǒu méi yǒu ...?	ada ... tidak?	do you have ...?		scenario::Belanja register::casual
+試穿	shì chuān	coba pakai (baju)	try on (clothes)		scenario::Belanja register::casual
+試用	shì yòng	coba pakai (produk)	try (a product)		scenario::Belanja register::casual
+尺寸	chǐ cùn	ukuran	size		scenario::Belanja register::casual
+顏色	yán sè	warna	color		scenario::Belanja register::casual
+有沒有別的顏色？	yǒu méi yǒu bié de yán sè?	ada warna lain?	any other colors?		scenario::Belanja register::casual
+全聯	Quánlián	PX Mart	PX Mart (supermarket)	Most popular supermarket chain in Taiwan	scenario::Belanja register::casual taiwan
+大潤發	Dàrùnfā	RT Mart	RT Mart (hypermarket)		scenario::Belanja register::casual
+購物車	gòu wù chē	troli belanja	shopping cart		scenario::Belanja register::casual
+結帳	jié zhàng	bayar / checkout	checkout / pay		scenario::Belanja register::casual
+會員卡	huì yuán kǎ	kartu member	membership card		scenario::Belanja register::casual
+有沒有會員卡？	yǒu méi yǒu huì yuán kǎ?	punya kartu member?	do you have a membership card?		scenario::Belanja register::casual
+刷卡	shuā kǎ	bayar kartu	pay by card		scenario::Belanja register::casual
+現金	xiàn jīn	uang tunai	cash		scenario::Belanja register::casual
+找零	zhǎo líng	kembalian	change (coins)		scenario::Belanja register::casual
+收據	shōu jù	kwitansi / struk	receipt		scenario::Belanja register::casual
+退換貨	tuì huàn huò	retur / tukar barang	return / exchange item		scenario::Belanja register::casual

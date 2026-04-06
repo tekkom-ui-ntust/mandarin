@@ -1,0 +1,28 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Mandarin Taiwan
+#columns:Hanzi	Pinyin	Indonesian	English	Taiwan Note	Tags
+救命！	jiùmìng!	tolong! / minta bantuan!	help! (save my life)		scenario::Darurat_&_Survival register::casual
+不好意思，我需要幫助	bù hǎo yìsi, wǒ xūyào bāngzhù	permisi, saya butuh bantuan	excuse me, I need help		scenario::Darurat_&_Survival register::casual
+警察	jǐngchá	polisi	police		scenario::Darurat_&_Survival register::casual
+救護車	jiùhù chē	ambulans	ambulance		scenario::Darurat_&_Survival register::casual
+消防車	xiāofáng chē	mobil pemadam	fire truck		scenario::Darurat_&_Survival register::casual
+叫警察	jiào jǐngchá	panggil polisi	call the police		scenario::Darurat_&_Survival register::casual
+打119	dǎ yāo yāo jiǔ	telepon 119 (ambulans/pemadam)	call 119 (ambulance/fire)	119 is for ambulance and fire in Taiwan. 110 is police.	scenario::Darurat_&_Survival register::casual taiwan
+打110	dǎ yāo yāo líng	telepon 110 (polisi)	call 110 (police)	110 is the police emergency number in Taiwan	scenario::Darurat_&_Survival register::casual taiwan
+有人受傷	yǒu rén shòushāng	ada orang yang terluka	someone is injured		scenario::Darurat_&_Survival register::casual
+快來！	kuài lái!	cepat datang!	come quickly!		scenario::Darurat_&_Survival register::casual
+我迷路了	wǒ mílù le	saya tersesat	I am lost		scenario::Darurat_&_Survival register::casual
+我的手機不見了	wǒ de shǒujī bú jiàn le	HP saya hilang	my phone is missing		scenario::Darurat_&_Survival register::casual
+錢包不見了	qiánbāo bú jiàn le	dompet saya hilang	my wallet is missing		scenario::Darurat_&_Survival register::casual
+護照	hùzhào	paspor	passport		scenario::Darurat_&_Survival register::casual
+我的護照不見了	wǒ de hùzhào bú jiàn le	paspor saya hilang	my passport is lost		scenario::Darurat_&_Survival register::casual
+被偷了	bèi tōu le	dicuri	was stolen		scenario::Darurat_&_Survival register::casual
+發生事故	fāshēng shìgù	terjadi kecelakaan	an accident occurred		scenario::Darurat_&_Survival register::casual
+我不知道地址	wǒ bù zhīdào dìzhǐ	saya tidak tahu alamatnya	I don\		scenario::Darurat_&_Survival register::casual
+台灣的緊急電話	Táiwān de jǐnjí diànhuà	nomor darurat Taiwan	Taiwan emergency numbers	110=Police, 119=Ambulance/Fire, 1999=Non-emergency city hotline	scenario::Darurat_&_Survival register::formal taiwan
+有沒有人說英文？	yǒu méiyǒu rén shuō Yīngwén?	ada yang bisa bahasa Inggris?	does anyone speak English?		scenario::Darurat_&_Survival register::casual
+我需要翻譯	wǒ xūyào fānyì	saya butuh penerjemah	I need a translator		scenario::Darurat_&_Survival register::casual
+請幫我打電話給⋯⋯	qǐng bāng wǒ dǎ diànhuà gěi...	tolong bantu saya telepon ...	please help me call ...		scenario::Darurat_&_Survival register::casual
+我在哪裡？	wǒ zài nǎlǐ?	saya ada di mana?	where am I?		scenario::Darurat_&_Survival register::casual

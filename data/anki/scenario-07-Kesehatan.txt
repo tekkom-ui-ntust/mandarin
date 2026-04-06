@@ -1,0 +1,31 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Mandarin Taiwan
+#columns:Hanzi	Pinyin	Indonesian	English	Taiwan Note	Tags
+頭痛	tóutòng	sakit kepala	headache		scenario::Kesehatan register::casual
+肚子痛	dùzi tòng	sakit perut	stomachache		scenario::Kesehatan register::casual
+喉嚨痛	hóulóng tòng	sakit tenggorokan	sore throat		scenario::Kesehatan register::casual
+發燒	fāshāo	demam	fever		scenario::Kesehatan register::casual
+流鼻水	liú bíshuǐ	pilek / meler	runny nose		scenario::Kesehatan register::casual
+咳嗽	késòu	batuk	cough		scenario::Kesehatan register::casual
+感冒	gǎnmào	flu / pilek	cold / flu		scenario::Kesehatan register::casual
+過敏	guòmǐn	alergi	allergy		scenario::Kesehatan register::casual
+噁心	ěxīn	mual	nausea		scenario::Kesehatan register::casual
+拉肚子	lā dùzi	diare / mencret	diarrhea		scenario::Kesehatan register::casual
+我不舒服	wǒ bù shūfú	saya tidak enak badan	I feel unwell		scenario::Kesehatan register::casual
+很嚴重嗎？	hěn yánzhòng ma?	serius / parah?	is it serious?		scenario::Kesehatan register::casual
+診所	zhěnsuǒ	klinik	clinic	Small private clinics are everywhere in Taiwan; cheaper than hospitals for minor illness	scenario::Kesehatan register::casual taiwan
+醫院	yīyuàn	rumah sakit	hospital		scenario::Kesehatan register::casual
+藥局	yàojú	apotek	pharmacy		scenario::Kesehatan register::casual
+看醫生	kàn yīshēng	periksa ke dokter	see a doctor		scenario::Kesehatan register::casual
+掛號	guàhào	daftar / registrasi (di klinik)	register at clinic	In Taiwan clinics you must 掛號 (register) first; often done online via app	scenario::Kesehatan register::casual taiwan
+健保卡	jiànbǎo kǎ	kartu asuransi kesehatan	National Health Insurance card	Taiwan NHI card — essential for clinic visits; covers most treatments cheaply	scenario::Kesehatan register::casual taiwan
+藥	yào	obat	medicine		scenario::Kesehatan register::casual
+止痛藥	zhǐtòng yào	obat pereda nyeri	painkiller		scenario::Kesehatan register::casual
+退燒藥	tuìshāo yào	obat penurun demam	fever reducer		scenario::Kesehatan register::casual
+一天幾次？	yītiān jǐ cì?	sehari berapa kali?	how many times a day?		scenario::Kesehatan register::casual
+飯前	fàn qián	sebelum makan	before meals		scenario::Kesehatan register::casual
+飯後	fàn hòu	setelah makan	after meals		scenario::Kesehatan register::casual
+多休息	duō xiūxi	banyak istirahat	get plenty of rest		scenario::Kesehatan register::casual
+多喝水	duō hē shuǐ	banyak minum air	drink plenty of water		scenario::Kesehatan register::casual

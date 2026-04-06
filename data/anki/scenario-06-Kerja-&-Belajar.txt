@@ -1,0 +1,33 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Mandarin Taiwan
+#columns:Hanzi	Pinyin	Indonesian	English	Taiwan Note	Tags
+上班	shàngbān	masuk kerja / berangkat kerja	to go to work		scenario::Kerja_&_Belajar register::casual
+下班	xiàbān	pulang kerja / selesai kerja	to get off work		scenario::Kerja_&_Belajar register::casual
+加班	jiābān	lembur	overtime		scenario::Kerja_&_Belajar register::casual
+請假	qǐng jià	minta izin / cuti	to request leave		scenario::Kerja_&_Belajar register::casual
+會議	huìyì	rapat / meeting	meeting		scenario::Kerja_&_Belajar register::formal
+開會	kāihuì	rapat / mengadakan rapat	to have a meeting		scenario::Kerja_&_Belajar register::casual
+截止日期	jiézhǐ rìqī	deadline	deadline		scenario::Kerja_&_Belajar register::formal
+報告	bàogào	laporan / presentasi	report / presentation		scenario::Kerja_&_Belajar register::formal
+客戶	kèhù	klien / nasabah	client / customer		scenario::Kerja_&_Belajar register::formal
+同事	tóngshì	rekan kerja	colleague		scenario::Kerja_&_Belajar register::casual
+老闆	lǎobǎn	bos / atasan	boss		scenario::Kerja_&_Belajar register::casual
+主管	zhǔguǎn	supervisor / manager	supervisor / manager		scenario::Kerja_&_Belajar register::formal
+薪水	xīnshuǐ	gaji	salary		scenario::Kerja_&_Belajar register::casual
+我不太清楚	wǒ bú tài qīngchǔ	saya kurang paham	I\		scenario::Kerja_&_Belajar register::casual
+請問可以幫我⋯⋯嗎？	qǐng wèn kěyǐ bāng wǒ... ma?	permisi, bisa bantu saya ...?	could you help me ...?		scenario::Kerja_&_Belajar register::casual
+麻煩你了	máfan nǐ le	merepotkan kamu / terima kasih atas bantuannya	sorry to trouble you / thanks		scenario::Kerja_&_Belajar register::casual
+辛苦了	xīnkǔ le	terima kasih sudah kerja keras	you\	Said to acknowledge someone\	scenario::Kerja_&_Belajar register::casual taiwan
+做得很好	zuò de hěn hǎo	kerjamu bagus sekali	well done		scenario::Kerja_&_Belajar register::casual
+我趕時間	wǒ gǎn shíjiān	saya terburu-buru	I\		scenario::Kerja_&_Belajar register::casual
+先這樣	xiān zhèyàng	segini dulu / cukup dulu	that\	Common way to end a conversation or meeting informally	scenario::Kerja_&_Belajar register::casual taiwan
+學校	xuéxiào	sekolah	school		scenario::Kerja_&_Belajar register::casual
+大學	dàxué	universitas	university		scenario::Kerja_&_Belajar register::casual
+語言學校	yǔyán xuéxiào	sekolah bahasa	language school		scenario::Kerja_&_Belajar register::casual
+作業	zuòyè	PR / tugas	homework / assignment		scenario::Kerja_&_Belajar register::casual
+考試	kǎoshì	ujian	exam		scenario::Kerja_&_Belajar register::casual
+我聽不懂	wǒ tīng bù dǒng	saya tidak mengerti (yang didengar)	I don\		scenario::Kerja_&_Belajar register::casual
+可以再說一次嗎？	kěyǐ zài shuō yīcì ma?	bisa ulangi sekali lagi?	can you say that again?		scenario::Kerja_&_Belajar register::casual
+請說慢一點	qǐng shuō màn yīdiǎn	tolong bicara lebih pelan	please speak slower		scenario::Kerja_&_Belajar register::casual

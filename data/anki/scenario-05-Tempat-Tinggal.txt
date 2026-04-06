@@ -1,0 +1,31 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Mandarin Taiwan
+#columns:Hanzi	Pinyin	Indonesian	English	Taiwan Note	Tags
+房間	fángjiān	kamar	room		scenario::Tempat_Tinggal register::casual
+套房	tàofáng	studio / kamar dengan kamar mandi dalam	studio apartment	Very common rental type in Taiwan cities	scenario::Tempat_Tinggal register::casual taiwan
+雅房	yǎfáng	kamar sewa (kamar mandi luar)	room with shared bathroom		scenario::Tempat_Tinggal register::casual
+房東	fángdōng	pemilik rumah / landlord	landlord		scenario::Tempat_Tinggal register::casual
+房客	fángkè	penyewa	tenant		scenario::Tempat_Tinggal register::casual
+租金	zūjīn	uang sewa	rent		scenario::Tempat_Tinggal register::casual
+押金	yājīn	deposit	security deposit		scenario::Tempat_Tinggal register::casual
+合約	héyuē	kontrak	contract / lease		scenario::Tempat_Tinggal register::formal
+幾個月？	jǐ gè yuè?	berapa bulan?	how many months?		scenario::Tempat_Tinggal register::casual
+包水電	bāo shuǐdiàn	sudah termasuk air dan listrik	utilities included	Common to ask 有沒有包水電？when renting	scenario::Tempat_Tinggal register::casual taiwan
+水費	shuǐfèi	tagihan air	water bill		scenario::Tempat_Tinggal register::casual
+電費	diànfèi	tagihan listrik	electricity bill		scenario::Tempat_Tinggal register::casual
+網路	wǎnglù	internet / wifi	internet	Taiwan uses 網路 where mainland uses 网络	scenario::Tempat_Tinggal register::casual taiwan
+有沒有含網路？	yǒu méiyǒu hán wǎnglù?	termasuk internet?	is internet included?		scenario::Tempat_Tinggal register::casual
+附近	fùjìn	sekitar sini / dekat sini	nearby		scenario::Tempat_Tinggal register::casual
+捷運站	jiéyùn zhàn	stasiun MRT	MRT station		scenario::Tempat_Tinggal register::casual
+走路幾分鐘到捷運？	zǒulù jǐ fēnzhōng dào jiéyùn?	jalan kaki berapa menit ke MRT?	how many minutes walk to MRT?		scenario::Tempat_Tinggal register::casual
+看房	kàn fáng	survei kamar / lihat rumah	to view a property		scenario::Tempat_Tinggal register::casual
+搬家	bānjiā	pindah rumah	to move house		scenario::Tempat_Tinggal register::casual
+鑰匙	yàoshi	kunci	key		scenario::Tempat_Tinggal register::casual
+壞掉了	huài diào le	rusak	broken		scenario::Tempat_Tinggal register::casual
+冷氣	lěngqì	AC	air conditioning	冷氣 is standard in Taiwan; mainland says 空調	scenario::Tempat_Tinggal register::casual taiwan
+熱水器	rèshuǐqì	water heater	water heater		scenario::Tempat_Tinggal register::casual
+洗衣機	xǐyījī	mesin cuci	washing machine		scenario::Tempat_Tinggal register::casual
+垃圾	lèsè	sampah	garbage / trash	In Taiwan, garbage trucks play music; you must bring trash to the truck	scenario::Tempat_Tinggal register::casual taiwan
+垃圾車	lèsè chē	truk sampah	garbage truck	Iconic Taiwan institution — plays Beethoven\	scenario::Tempat_Tinggal register::casual taiwan

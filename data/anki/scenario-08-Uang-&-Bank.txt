@@ -1,0 +1,26 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Mandarin Taiwan
+#columns:Hanzi	Pinyin	Indonesian	English	Taiwan Note	Tags
+錢	qián	uang	money		scenario::Uang_&_Bank register::casual
+台幣	Táibì	Dolar Taiwan (TWD)	New Taiwan Dollar		scenario::Uang_&_Bank register::casual
+銀行	yínháng	bank	bank		scenario::Uang_&_Bank register::casual
+提款機	tíkuǎnjī	ATM	ATM	Also called 自動提款機 (zìdòng tíkuǎnjī)	scenario::Uang_&_Bank register::casual taiwan
+存款	cúnkuǎn	menabung / setoran	deposit / savings		scenario::Uang_&_Bank register::casual
+提款	tíkuǎn	tarik tunai	withdraw cash		scenario::Uang_&_Bank register::casual
+轉帳	zhuǎnzhàng	transfer uang	bank transfer		scenario::Uang_&_Bank register::casual
+匯款	huìkuǎn	kirim uang / remittance	remittance / send money		scenario::Uang_&_Bank register::casual
+帳戶	zhànghù	rekening bank	bank account		scenario::Uang_&_Bank register::casual
+帳號	zhànghào	nomor rekening	account number		scenario::Uang_&_Bank register::casual
+手續費	shǒuxù fèi	biaya administrasi	transaction / processing fee		scenario::Uang_&_Bank register::casual
+匯率	huìlǜ	nilai tukar	exchange rate		scenario::Uang_&_Bank register::casual
+換錢	huàn qián	tukar uang	change money / exchange currency		scenario::Uang_&_Bank register::casual
+密碼	mìmǎ	PIN / kata sandi	PIN / password		scenario::Uang_&_Bank register::casual
+餘額	yú\	saldo	balance		scenario::Uang_&_Bank register::casual
+一起付	yīqǐ fù	bayar bareng	pay together		scenario::Uang_&_Bank register::casual
+各付各的	gè fù gè de	bayar masing-masing / dutch	split the bill / go Dutch		scenario::Uang_&_Bank register::casual
+我請客	wǒ qǐng kè	saya yang traktir	it\		scenario::Uang_&_Bank register::casual
+你上次請，這次我來	nǐ shàng cì qǐng, zhè cì wǒ lái	kemarin kamu yang traktir, kali ini giliran saya	you treated last time, this time it\		scenario::Uang_&_Bank register::casual
+可以掃碼付款嗎？	kěyǐ sǎo mǎ fùkuǎn ma?	bisa bayar scan QR code?	can I pay by QR code scan?	LINE Pay and 街口支付 (Jkopay) are common QR payment apps in Taiwan	scenario::Uang_&_Bank register::casual taiwan
+街口支付	Jiēkǒu Zhīfù	Jkopay	Jkopay (payment app)	Taiwan-specific QR payment app, very popular	scenario::Uang_&_Bank register::casual taiwan
