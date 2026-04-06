@@ -4,7 +4,7 @@ Aplikasi flashcard untuk belajar Mandarin Taiwan sehari-hari — dengan terjemah
 
 Bisa diakses dari browser PC maupun diinstal sebagai aplikasi di Android (PWA).
 
-**Live app:** https://tekkom-ui-ntust.github.io/belajar-mandarin/
+**Live app:** https://tekkom-ui-ntust.github.io/mandarin/
 
 ---
 

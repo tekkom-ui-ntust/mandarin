@@ -2,7 +2,7 @@
   "name": "Belajar Mandarin Taiwan",
   "short_name": "學中文",
   "description": "Belajar Mandarin Taiwan untuk komunikasi sehari-hari",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#fafaf9",
   "theme_color": "#1c1917",

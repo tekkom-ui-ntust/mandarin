@@ -1,5 +1,6 @@
 const CACHE = 'mandarin-v1'
-const PRECACHE = ['/', '/index.html']
+// Use the service worker's own scope so paths work under any base (e.g. /mandarin/)
+const PRECACHE = [self.registration.scope, self.registration.scope + 'index.html']
 
 self.addEventListener('install', e => {
   e.waitUntil(
